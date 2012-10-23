@@ -1,0 +1,679 @@
+Dist,District,School Code,School,Beginning Grade 9 Students,Transferred In,Dropouts - Year 1,Dropouts - Year 2,Dropouts - Year 3,Dropouts - Year 4,Dropouts - Year 5,Transferred Out,Adjusted Cohort,Graduates,Continuing,Adjusted Actual 5-Year Cohort Graduation Rate,Cohort dropout rate,Continuing Rate
+14005,Aberdeen,3857,Harbor High School,24,81,1,5,8,9,13,44,61,21,4,34.4,59.0,6.6
+14005,Aberdeen,3476,J M Weatherwax High School,335,61,2,5,12,14,18,169,227,171,5,75.3,22.5,2.2
+21226,Adna,2441,Adna Middle/High School,52,26,1,0,2,0,0,34,44,41,0,93.2,6.8,0.0
+29103,Anacortes,2467,Anacortes High School,226,57,1,3,4,5,2,102,181,165,1,91.2,8.3,0.6
+29103,Anacortes,5176,Cap Sante High School,0,33,0,0,0,11,8,10,23,1,3,4.3,82.6,13.0
+29103,Anacortes,1849,Home Education Partnership,16,25,0,0,0,1,0,29,12,9,2,75.0,8.3,16.7
+29103,Anacortes,1525,Learning Opportunity Center,1,17,0,0,3,0,0,15,3,0,0,0.0,100.0,0.0
+31016,Arlington,2523,Arlington High School,481,94,4,7,10,7,7,247,328,288,5,87.8,10.7,1.5
+31016,Arlington,1714,Stillaguamish School,18,44,0,0,2,2,6,33,29,14,5,48.3,34.5,17.2
+31016,Arlington,4287,Weston High School,6,92,0,1,3,8,13,35,63,31,7,49.2,39.7,11.1
+02420,Asotin-Anatone,2434,Asotin Jr Sr High,49,11,0,0,0,0,0,21,39,39,0,100.0,0.0,0.0
+17408,Auburn,5037,Auburn Mountainview High School,381,122,2,2,3,9,9,181,322,296,1,91.9,7.8,0.3
+17408,Auburn,4474,Auburn Riverside High School,521,116,1,1,8,16,10,224,413,375,2,90.8,8.7,0.5
+17408,Auburn,2795,Auburn Senior High School,569,205,5,9,18,40,28,327,447,330,17,73.8,22.4,3.8
+17408,Auburn,2702,West Auburn Senior High School,55,205,3,5,15,4,5,181,79,29,18,36.7,40.5,22.8
+18303,Bainbridge Island,2395,Bainbridge High School,357,33,0,1,0,0,2,74,316,308,5,97.5,0.9,1.6
+18303,Bainbridge Island,1935,Eagle Harbor High School,17,32,0,0,1,0,2,21,28,22,3,78.6,10.7,10.7
+27931,Bates Technical College,5950,Bates Technical High School,3,157,2,1,0,37,0,68,92,9,43,9.8,43.5,46.7
+06119,Battle Ground,2415,Battle Ground High School,474,213,1,2,1,14,5,217,470,438,9,93.2,4.9,1.9
+06119,Battle Ground,1836,Cam Jr Sr High School,71,15,0,0,0,0,0,37,49,49,0,100.0,0.0,0.0
+06119,Battle Ground,1875,Homelink River,55,32,0,0,2,1,0,55,32,26,3,81.3,9.4,9.4
+06119,Battle Ground,1597,Homelink Schools,42,27,0,1,0,0,1,46,23,18,3,78.3,8.7,13.0
+06119,Battle Ground,4104,Prairie High School,390,119,1,0,4,6,3,209,300,283,3,94.3,4.7,1.0
+06119,Battle Ground,4450,Summit View High School,6,287,0,5,12,27,40,96,197,90,23,45.7,42.6,11.7
+17405,Bellevue,2701,Bellevue High School,359,101,0,1,0,2,8,117,343,329,3,95.9,3.2,0.9
+17405,Bellevue,1832,Bsd Voc Ed/Career Educ Options,0,115,0,0,6,14,40,12,103,0,43,0.0,58.3,41.7
+17405,Bellevue,5031,English Language Development,0,1,0,0,0,1,0,0,1,0,0,0.0,100.0,0.0
+17405,Bellevue,3588,Interlake Senior High School,288,107,0,3,3,1,8,130,265,233,17,87.9,5.7,6.4
+17405,Bellevue,3522,International School,73,4,0,0,0,0,0,21,56,56,0,100.0,0.0,0.0
+17405,Bellevue,1746,Kelsey Creek Home School Center,16,20,0,0,1,0,0,32,4,1,2,25.0,25.0,50.0
+17405,Bellevue,3486,Newport Senior High School,436,63,0,1,0,4,4,86,413,400,4,96.9,2.2,1.0
+17405,Bellevue,3744,Robinswood Middle and High School,67,67,2,3,2,5,4,109,25,9,0,36.0,64.0,0.0
+17405,Bellevue,3282,Sammamish Senior High,296,107,0,2,3,5,16,160,243,212,5,87.2,10.7,2.1
+37501,Bellingham,2553,Bellingham High School,335,67,2,5,9,8,8,120,282,239,11,84.8,11.3,3.9
+37501,Bellingham,1694,Home Port Learning Center,3,14,0,0,1,0,0,16,1,0,0,0.0,100.0,0.0
+37501,Bellingham,1647,Options High School,19,65,1,6,4,5,8,40,44,19,1,43.2,54.5,2.3
+37501,Bellingham,3576,Sehome High School,289,92,0,9,4,14,10,132,249,208,4,83.5,14.9,1.6
+37501,Bellingham,4515,Squalicum High School,390,106,4,13,22,26,15,151,345,260,5,75.4,23.2,1.4
+27403,Bethel,2807,Bethel High School,0,586,0,8,8,9,20,260,326,279,2,85.6,13.8,0.6
+27403,Bethel,5174,Bethel Online Academy,0,174,0,0,0,31,50,70,104,9,14,8.7,77.9,13.5
+27403,Bethel,4186,Cedarcrest Junior High,317,5,1,0,1,0,0,320,2,0,0,0.0,100.0,0.0
+27403,Bethel,1510,Challenger Secondary School,46,318,0,2,12,23,26,194,170,78,29,45.9,37.1,17.1
+27403,Bethel,5033,Graham Kapowsin High School,1,614,0,1,6,21,5,236,379,345,1,91.0,8.7,0.3
+27403,Bethel,3751,Spanaway Junior High,301,4,1,0,0,0,0,304,1,0,0,0.0,100.0,0.0
+27403,Bethel,4158,Spanaway Lake High School,1,615,0,6,11,16,35,313,303,230,5,75.9,22.4,1.7
+20203,Bickleton,3392,Bickleton Elementary & High Schl,10,4,0,0,1,0,0,4,10,9,0,90.0,10.0,0.0
+37503,Blaine,3136,Blaine High School,190,43,0,6,2,5,6,61,172,150,3,87.2,11.0,1.7
+37503,Blaine,1783,Timber Ridge,14,6,1,0,3,0,0,15,5,1,0,20.0,80.0,0.0
+18100,Bremerton,3109,Bremerton High School,362,152,1,1,4,11,14,187,327,285,11,87.2,9.5,3.4
+18100,Bremerton,3883,Morgan Center School,0,2,0,0,0,0,0,1,1,1,0,100.0,0.0,0.0
+18100,Bremerton,1737,Renaissance Alternative High School,22,90,0,4,2,8,14,41,71,33,10,46.5,39.4,14.1
+18100,Bremerton,5134,Washington Youth Academy,0,119,0,0,4,3,0,112,7,0,0,0.0,100.0,0.0
+24111,Brewster,2800,Brewster High School,76,15,2,3,1,4,6,31,60,39,5,65.0,26.7,8.3
+09075,Bridgeport,1900,Bridgeport Aurora High School,7,17,1,1,1,3,0,9,15,8,1,53.3,40.0,6.7
+09075,Bridgeport,2788,Bridgeport High School,59,10,4,3,0,0,1,25,44,29,7,65.9,18.2,15.9
+29100,Burlington-Edison,2362,Burlington Edison High School,351,76,1,10,12,12,1,155,272,236,0,86.8,13.2,0.0
+29100,Burlington-Edison,1928,Burlington-Edison Alternative School,12,37,0,0,2,3,5,26,23,11,2,47.8,43.5,8.7
+06117,Camas,4567,Camas High School,428,109,3,5,5,5,6,186,351,324,3,92.3,6.8,0.9
+06117,Camas,5104,Hayes Freedom High School,0,104,0,1,4,8,5,29,75,55,2,73.3,24.0,2.7
+05401,Cape Flattery,3422,Clallam Bay High & Elementary,15,3,0,0,0,0,0,8,10,9,1,90.0,0.0,10.0
+05401,Cape Flattery,3145,Neah Bay Junior/ Senior High School,28,7,0,0,0,0,3,9,26,22,1,84.6,11.5,3.8
+04228,Cascade,3564,Cascade High School,122,35,0,0,1,3,3,65,92,85,0,92.4,7.6,0.0
+04222,Cashmere,3268,Cashmere High School,139,26,0,0,2,1,2,48,117,110,2,94.0,4.3,1.7
+08401,Castle Rock,2281,Castle Rock High School,141,32,1,2,5,3,7,37,136,116,2,85.3,13.2,1.5
+08401,Castle Rock,5185,Productive Learning Online,0,6,0,0,0,1,1,4,2,0,0,0.0,100.0,0.0
+18401,Central Kitsap,3936,Alternative High School,2,127,0,0,4,1,14,57,72,42,11,58.3,26.4,15.3
+18401,Central Kitsap,2615,Central Kitsap High School,0,569,0,0,2,1,6,166,403,387,7,96.0,2.2,1.7
+18401,Central Kitsap,3237,Central Kitsap Junior High,342,1,0,1,0,0,0,342,1,0,0,0.0,100.0,0.0
+18401,Central Kitsap,1903,East Side Alt,1,55,0,0,0,1,5,19,37,27,4,73.0,16.2,10.8
+18401,Central Kitsap,3791,Fairview Junior High School,243,5,0,1,0,0,0,247,1,0,0,0.0,100.0,0.0
+18401,Central Kitsap,4509,Klahowya Secondary,177,57,0,0,1,0,3,73,161,155,2,96.3,2.5,1.2
+18401,Central Kitsap,1653,New Frontiers Jr High,25,23,0,0,0,0,0,47,1,0,1,0.0,0.0,100.0
+18401,Central Kitsap,1740,Off Campus,19,58,0,0,1,1,7,48,29,18,2,62.1,31.0,6.9
+18401,Central Kitsap,4100,Olympic High School,0,483,0,0,1,6,13,158,325,300,5,92.3,6.2,1.5
+18401,Central Kitsap,4249,Ridgetop Junior High,358,4,0,1,0,0,0,361,1,0,0,0.0,100.0,0.0
+32356,Central Valley,3918,Barker Center,19,71,0,2,5,2,2,60,30,12,7,40.0,36.7,23.3
+32356,Central Valley,3065,Central Valley High School,535,103,4,5,5,2,4,196,442,419,3,94.8,4.5,0.7
+32356,Central Valley,5166,I-TRACC,0,41,0,0,0,5,8,17,24,7,4,29.2,54.2,16.7
+32356,Central Valley,1964,Spokane Valley Learning Academy,8,5,2,2,0,2,0,7,6,0,0,0.0,100.0,0.0
+32356,Central Valley,3415,University High School,478,106,6,3,12,9,5,204,380,345,0,90.8,9.2,0.0
+21401,Centralia,2166,Centralia High School,313,103,8,5,15,34,10,132,284,207,5,72.9,25.4,1.8
+21302,Chehalis,2027,Green Hill Academic School,25,196,0,0,5,39,27,130,91,12,8,13.2,78.0,8.8
+21302,Chehalis,2799,W F West High School,258,81,1,4,6,16,2,114,225,191,5,84.9,12.9,2.2
+32360,Cheney,3610,Cheney High School,297,91,2,1,12,4,5,157,231,204,3,88.3,10.4,1.3
+32360,Cheney,1769,Three Springs High School,12,59,2,2,5,9,3,35,36,15,0,41.7,58.3,0.0
+33036,Chewelah,1709,Chewelah Alternative,5,27,0,0,1,3,10,12,20,3,3,15.0,70.0,15.0
+33036,Chewelah,1763,Home Link Alternative,15,13,0,1,0,0,1,23,5,3,0,60.0,40.0,0.0
+33036,Chewelah,2404,Jenkins Senior High,102,40,0,3,3,2,2,60,82,71,1,86.6,12.2,1.2
+16049,Chimacum,3275,Chimacum High School,109,29,0,1,2,3,1,44,94,87,0,92.6,7.4,0.0
+16049,Chimacum,1724,PI Program,9,7,0,0,0,2,0,13,3,0,1,0.0,66.7,33.3
+02250,Clarkston,2299,Charles Francis Adams High School,226,51,0,4,2,3,0,107,170,159,2,93.5,5.3,1.2
+02250,Clarkston,1617,Educational Opportunity Center,27,109,2,2,7,27,22,36,100,28,12,28.0,60.0,12.0
+02250,Clarkston,3616,Special Services,3,1,0,0,0,0,0,3,1,1,0,100.0,0.0,0.0
+19404,Cle Elum-Roslyn,2329,Cle Elum Roslyn High School,86,17,1,3,1,1,0,53,50,44,0,88.0,12.0,0.0
+19404,Cle Elum-Roslyn,1987,Swiftwater Learning Center,4,19,0,0,1,4,1,3,20,11,3,55.0,30.0,15.0
+27400,Clover Park,1825,Alfaretta House,0,4,0,0,0,0,0,1,3,0,3,0.0,0.0,100.0
+27400,Clover Park,2425,Clover Park High School,479,182,13,7,15,15,15,434,227,158,4,69.6,28.6,1.8
+27400,Clover Park,2041,Firwood,11,56,0,0,0,0,0,61,6,0,6,0.0,0.0,100.0
+27400,Clover Park,5027,Harrison Prep School,28,11,0,0,1,0,0,26,13,11,1,84.6,7.7,7.7
+27400,Clover Park,3456,Lakes High School,475,189,1,7,6,4,10,394,270,234,8,86.7,10.4,3.0
+27400,Clover Park,4862,Lakewood Career Academy,8,108,0,2,19,11,5,77,39,2,0,5.1,94.9,0.0
+27400,Clover Park,1880,Re-Entry High School,8,24,0,0,0,1,0,31,1,0,0,0.0,100.0,0.0
+38300,Colfax,3366,Colfax High School,67,15,0,3,1,1,0,21,61,55,1,90.2,8.2,1.6
+38306,Colton,2588,Colton School,24,1,0,0,0,0,0,6,19,19,0,100.0,0.0,0.0
+33206,Columbia (Stevens),3508,Columbia High And Elementary,20,7,0,0,0,1,0,12,15,13,1,86.7,6.7,6.7
+36400,Columbia (Walla Walla),4049,Columbia High School,96,18,1,5,1,5,4,31,83,65,2,78.3,19.3,2.4
+33115,Colville,5105,Columbia Virtual Academy-Colville,0,101,0,1,2,2,0,65,36,21,10,58.3,13.9,27.8
+33115,Colville,3310,Colville Senior High School,205,44,2,3,2,1,1,99,150,141,0,94.0,6.0,0.0
+33115,Colville,5230,Panorama Distance,0,5,0,0,0,0,3,2,3,0,0,0.0,100.0,0.0
+33115,Colville,1594,Panorama School,0,40,0,0,0,6,6,7,33,15,6,45.5,36.4,18.2
+29011,Concrete,2810,Concrete High School,67,17,1,3,0,3,1,40,44,35,1,79.5,18.2,2.3
+29011,Concrete,1762,Skagit River School House,7,2,0,0,0,0,0,6,3,3,0,100.0,0.0,0.0
+29011,Concrete,1605,Twin Cedars High School,7,20,0,2,1,3,2,11,16,5,3,31.3,50.0,18.8
+13151,Coulee-Hartline,2968,Almira Coulee Hartline High School,26,11,0,0,0,0,1,17,20,19,0,95.0,5.0,0.0
+15204,Coupeville,1913,Cedar Program,2,5,0,0,0,0,1,4,3,2,0,66.7,33.3,0.0
+15204,Coupeville,2625,Coupeville High School,109,23,1,0,2,3,2,41,91,82,1,90.1,8.8,1.1
+05313,Crescent,3473,Crescent School,28,10,1,2,1,1,1,16,22,15,1,68.2,27.3,4.5
+05313,Crescent,5030,HomeConnection,8,1,0,0,0,0,0,7,2,0,2,0.0,0.0,100.0
+22073,Creston,2863,Creston Jr-Sr High School,12,7,0,0,0,0,0,8,11,11,0,100.0,0.0,0.0
+10050,Curlew,2006,Curlew Elem & High School,30,8,0,0,0,2,0,12,26,24,0,92.3,7.7,0.0
+10050,Curlew,1921,Curlew Parent Partner,14,4,0,0,1,1,0,16,2,0,0,0.0,100.0,0.0
+26059,Cusick,2423,Cusick Jr Sr High School,30,15,0,1,1,0,0,20,25,23,0,92.0,8.0,0.0
+31330,Darrington,3188,Darrington Sr High School,45,13,0,0,3,0,2,20,38,33,0,86.8,13.2,0.0
+22207,Davenport,3173,Davenport Senior High School,60,15,0,0,1,2,7,22,53,43,0,81.1,18.9,0.0
+07002,Dayton,2302,Dayton High School,49,10,0,1,1,2,0,26,33,28,1,84.8,12.1,3.0
+32414,Deer Park,4123,Deer Park High School,208,47,0,3,8,13,4,69,186,152,6,81.7,15.1,3.2
+32414,Deer Park,1852,Deer Park Home Link Program,36,15,0,0,0,0,0,18,33,31,2,93.9,0.0,6.1
+32361,East Valley (Spokane),3360,East Valley High School,368,83,1,0,3,4,4,176,275,248,15,90.2,4.4,5.5
+32361,East Valley (Spokane),5069,East Valley HomeLink,3,6,0,0,3,0,0,6,3,0,0,0.0,100.0,0.0
+32361,East Valley (Spokane),1821,GED Program,0,2,0,1,0,0,0,1,1,0,0,0.0,100.0,0.0
+32361,East Valley (Spokane),1788,The Connection School,9,20,0,1,0,0,0,28,1,0,0,0.0,100.0,0.0
+32361,East Valley (Spokane),5156,Washington Academy of Arts and Technology,0,183,0,0,2,16,21,78,105,55,11,52.4,37.1,10.5
+39090,East Valley (Yakima),2344,East Valley High School,252,48,2,1,2,8,8,111,189,164,4,86.8,11.1,2.1
+09206,Eastmont,2986,Canyon View Group Home,1,20,0,0,3,1,0,13,8,4,0,50.0,50.0,0.0
+09206,Eastmont,3372,Eastmont Junior High,475,9,5,0,0,0,0,478,6,0,1,0.0,83.3,16.7
+09206,Eastmont,2727,Eastmont Senior High,0,541,0,3,5,18,11,122,419,377,5,90.0,8.8,1.2
+19028,Easton,3554,Easton School,13,2,0,0,0,0,1,6,9,8,0,88.9,11.1,0.0
+27404,Eatonville,2206,Eatonville High School,202,46,0,0,4,13,6,78,170,143,4,84.1,13.5,2.4
+31015,Edmonds,5060,Edmonds Career Access,0,185,0,0,1,20,41,45,140,30,48,21.4,44.3,34.3
+31015,Edmonds,1966,Edmonds Heights K-12,43,29,1,0,3,0,0,34,38,31,3,81.6,10.5,7.9
+31015,Edmonds,1519,Edmonds Independent Learning,6,57,0,1,2,5,5,48,15,2,0,13.3,86.7,0.0
+31015,Edmonds,3123,Edmonds Woodway High School,492,107,3,8,10,15,16,183,416,360,4,86.5,12.5,1.0
+31015,Edmonds,3755,Lynnwood High School,382,140,0,8,12,18,17,216,306,240,11,78.4,18.0,3.6
+31015,Edmonds,3818,Maplewood Center,1,2,0,0,0,0,0,0,3,1,2,33.3,0.0,66.7
+31015,Edmonds,3464,Meadowdale High School,390,93,1,3,10,5,25,149,334,286,4,85.6,13.2,1.2
+31015,Edmonds,3303,Mountlake Terrace High School,425,100,2,3,9,13,11,177,348,310,0,89.1,10.9,0.0
+31015,Edmonds,3854,Scriber Lake High School,24,111,0,4,6,12,17,62,73,19,15,26.0,53.4,20.5
+31015,Edmonds,1830,Special Education Contracted,6,4,0,0,0,0,1,8,2,1,0,50.0,50.0,0.0
+19401,Ellensburg,2996,Ellensburg High School,255,55,2,4,3,13,11,85,225,191,1,84.9,14.7,0.4
+19401,Ellensburg,5186,Excel High School,0,25,0,0,0,3,0,22,3,0,0,0.0,100.0,0.0
+19401,Ellensburg,5097,K-12 Ellensburg Learning Center,3,47,0,0,7,8,7,25,25,0,3,0.0,88.0,12.0
+14068,Elma,1629,East Grays Harbor High School,3,32,1,1,2,6,6,9,26,8,2,30.8,61.5,7.7
+14068,Elma,2137,Elma High School,177,41,2,0,5,10,2,68,150,127,4,84.7,12.7,2.7
+04127,Entiat,3317,Entiat Middle and High School,25,7,0,0,0,0,0,16,16,16,0,100.0,0.0,0.0
+17216,Enumclaw,3330,Enumclaw Sr High School,430,73,2,7,4,26,11,128,375,320,5,85.3,13.3,1.3
+17216,Enumclaw,1986,Muckleshoot Tribal School,13,32,0,0,3,5,7,22,23,7,1,30.4,65.2,4.3
+13165,Ephrata,2920,Ephrata High School,211,52,1,1,1,3,1,99,164,155,2,94.5,4.3,1.2
+13165,Ephrata,1971,Sage Hills High School,9,53,0,0,3,5,5,19,43,29,1,67.4,30.2,2.3
+31002,Everett,3407,Cascade High School,490,140,2,8,4,5,4,262,368,334,11,90.8,6.3,3.0
+31002,Everett,2126,Everett High School,590,154,4,15,6,8,9,417,327,273,12,83.5,12.8,3.7
+31002,Everett,4438,Henry M. Jackson High School,578,101,1,1,8,5,2,230,449,425,7,94.7,3.8,1.6
+31002,Everett,1663,NW Learning Center,0,10,0,0,1,0,1,7,3,1,0,33.3,66.7,0.0
+31002,Everett,1811,Pass Program,40,139,0,0,0,0,0,178,1,0,1,0.0,0.0,100.0
+31002,Everett,1907,Port Gardner,17,6,0,0,0,0,0,22,1,0,1,0.0,0.0,100.0
+31002,Everett,4137,Sequoia High School,74,240,4,8,18,18,20,165,149,64,17,43.0,45.6,11.4
+31002,Everett,3903,Special Services,0,10,0,0,0,0,0,5,5,0,5,0.0,0.0,100.0
+06114,Evergreen (Clark),2724,Evergreen High School,737,187,4,9,13,31,24,474,450,365,4,81.1,18.0,0.9
+06114,Evergreen (Clark),4498,Frontier Middle School,19,0,1,0,0,0,0,18,1,0,0,0.0,100.0,0.0
+06114,Evergreen (Clark),4523,Heritage High School,747,194,14,12,23,38,25,419,522,387,23,74.1,21.5,4.4
+06114,Evergreen (Clark),1926,Home Choice Academy,20,0,2,0,0,0,0,18,2,0,0,0.0,100.0,0.0
+06114,Evergreen (Clark),1801,iQ Academy Washington,44,207,1,1,11,9,11,207,44,11,0,25.0,75.0,0.0
+06114,Evergreen (Clark),4042,Legacy High School,38,251,0,6,9,14,43,179,110,38,0,34.5,65.5,0.0
+06114,Evergreen (Clark),4162,Mountain View High School,663,165,2,5,15,45,15,433,395,295,18,74.7,20.8,4.6
+06114,Evergreen (Clark),5111,Union High School,0,555,0,1,9,11,4,153,402,367,10,91.3,6.2,2.5
+17210,Federal Way,5163,Career Academy at Truman High School,0,53,0,0,0,6,4,9,44,30,4,68.2,22.7,9.1
+17210,Federal Way,3766,Decatur High School,482,152,3,13,9,8,24,292,342,273,12,79.8,16.7,3.5
+17210,Federal Way,1950,Employment Transition Program,0,19,0,0,1,2,0,8,11,0,8,0.0,27.3,72.7
+17210,Federal Way,2417,Federal Way High School,487,216,11,12,17,33,18,296,407,313,3,76.9,22.4,0.7
+17210,Federal Way,1789,Federal Way Public Academy,77,2,2,0,0,0,0,77,2,0,0,0.0,100.0,0.0
+17210,Federal Way,4390,H. S. Truman High School,21,40,1,2,7,4,0,45,16,2,0,12.5,87.5,0.0
+17210,Federal Way,1759,Internet Academy,121,196,0,6,8,4,16,282,35,1,0,2.9,97.1,0.0
+17210,Federal Way,4340,Merit School,2,1,0,0,0,1,0,2,1,0,0,0.0,100.0,0.0
+17210,Federal Way,1951,Support School,3,10,0,0,1,1,1,10,3,0,0,0.0,100.0,0.0
+17210,Federal Way,3584,Thomas Jefferson High School,589,215,8,11,18,22,28,313,491,392,12,79.8,17.7,2.4
+17210,Federal Way,4570,Todd Beamer High School,563,163,9,4,15,22,32,286,440,356,2,80.9,18.6,0.5
+37502,Ferndale,2488,Ferndale High School,444,104,4,10,17,21,21,172,376,288,15,76.6,19.4,4.0
+37502,Ferndale,3135,Lummi High School,36,15,0,1,0,6,4,16,35,23,1,65.7,31.4,2.9
+27417,Fife,4582,Columbia Junior High School,303,2,1,0,0,0,0,304,1,0,0,0.0,100.0,0.0
+27417,Fife,2773,Fife High School,0,364,0,4,4,7,4,131,233,213,1,91.4,8.2,0.4
+27417,Fife,1793,Learning Opportunity Center,0,51,0,0,1,9,13,9,42,19,0,45.2,54.8,0.0
+03053,Finley,2367,River View High School,90,24,0,0,0,5,2,34,80,72,1,90.0,8.8,1.3
+27402,Franklin Pierce,2876,Franklin Pierce High School,383,120,2,7,13,6,9,283,220,178,5,80.9,16.8,2.3
+27402,Franklin Pierce,4063,Gates Secondary School,59,184,2,0,5,23,24,131,112,44,14,39.3,48.2,12.5
+27402,Franklin Pierce,3648,Washington High School,272,129,2,4,12,8,7,214,187,149,5,79.7,17.6,2.7
+32358,Freeman,5110,Freeman CVA School,0,10,0,0,0,1,0,7,3,2,0,66.7,33.3,0.0
+32358,Freeman,3192,Freeman High School,88,20,0,1,0,3,1,18,90,85,0,94.4,5.6,0.0
+38302,Garfield,1962,Garfield at Palouse High School,12,3,0,0,0,0,0,6,9,9,0,100.0,0.0,0.0
+20401,Glenwood,3048,Glenwood Secondary,7,4,0,0,0,0,0,3,8,8,0,100.0,0.0,0.0
+20404,Goldendale,2856,Goldendale High School,109,37,0,3,4,5,1,57,89,75,1,84.3,14.6,1.1
+13301,Grand Coulee Dam,2801,Lake Roosevelt High School,94,33,0,2,5,7,7,49,78,56,1,71.8,26.9,1.3
+39200,Grandview,1645,Compass High School,9,80,0,2,0,3,5,40,49,37,2,75.5,20.4,4.1
+39200,Grandview,1776,Contract Learning Center,4,57,0,0,0,4,9,31,30,17,0,56.7,43.3,0.0
+39200,Grandview,2555,Grandview High School,252,46,0,2,0,6,4,162,136,124,0,91.2,8.8,0.0
+39200,Grandview,1679,YVCC GED School,0,29,0,0,1,12,3,13,16,0,0,0.0,100.0,0.0
+39204,Granger,1661,Granger Alternative High School,3,5,1,0,0,0,0,7,1,0,0,0.0,100.0,0.0
+39204,Granger,3314,Granger High School,123,32,1,7,1,8,10,47,108,79,2,73.1,25.0,1.9
+31332,Granite Falls,5171,Crossroads Alternative High School,0,63,0,0,0,7,12,16,47,16,12,34.0,40.4,25.5
+31332,Granite Falls,2580,Granite Falls High School,206,71,2,3,5,2,1,129,148,132,3,89.2,8.8,2.0
+22204,Harrington,3113,Harrington High School,13,3,0,0,0,0,0,10,6,6,0,100.0,0.0,0.0
+39203,Highland,4559,Highland High School,108,14,0,3,0,1,2,23,99,88,5,88.9,6.1,5.1
+17401,Highline,5063,Academy of Citizenship and Empowerment,113,53,1,3,8,16,2,88,78,40,8,51.3,38.5,10.3
+17401,Highline,5102,Arts & Academics Academy,0,150,0,0,1,12,6,83,67,45,3,67.2,28.4,4.5
+17401,Highline,3553,Aviation High School,105,8,0,0,0,4,2,26,87,80,1,92.0,6.9,1.1
+17401,Highline,5028,Big Picture School,27,20,0,0,3,0,6,19,28,18,1,64.3,32.1,3.6
+17401,Highline,5116,Career Link,1,111,0,0,1,11,25,19,93,25,31,26.9,39.8,33.3
+17401,Highline,1539,CHOICE Academy,11,15,0,0,0,0,2,16,10,5,3,50.0,20.0,30.0
+17401,Highline,3099,Evergreen High School,367,0,9,7,0,0,0,351,16,0,0,0.0,100.0,0.0
+17401,Highline,5064,Global Connections High School,96,30,4,1,1,1,9,54,72,48,8,66.7,22.2,11.1
+17401,Highline,5101,Health Sciences & Human Services,0,112,0,0,0,6,2,39,73,62,3,84.9,11.0,4.1
+17401,Highline,2325,Highline High School,400,149,13,16,14,38,15,228,321,209,16,65.1,29.9,5.0
+17401,Highline,3279,Mount Rainier High School,396,165,3,6,12,20,30,156,405,321,13,79.3,17.5,3.2
+17401,Highline,1972,New Start,12,109,0,4,4,10,18,53,68,25,7,36.8,52.9,10.3
+17401,Highline,5065,Odyssey - The Essential School,84,56,0,3,5,8,7,89,51,24,4,47.1,45.1,7.8
+17401,Highline,5172,Puget Sound High School,0,19,0,0,0,0,0,1,18,18,0,100.0,0.0,0.0
+17401,Highline,5103,Technology Engineering & Communications,0,118,0,1,2,4,2,55,63,52,2,82.5,14.3,3.2
+06098,Hockinson,4568,Hockinson High School,183,40,0,0,2,4,1,72,151,144,0,95.4,4.6,0.0
+14028,Hoquiam,3622,Hoquiam High School,236,63,1,2,6,26,6,128,171,126,4,73.7,24.0,2.3
+14028,Hoquiam,5191,Hoquiam Homelink School,0,25,0,0,0,4,4,10,15,5,2,33.3,53.3,13.3
+10070,Inchelium,2603,Inchelium High School,16,4,0,0,0,2,1,7,13,10,0,76.9,23.1,0.0
+17411,Issaquah,3569,Echo Glen,113,76,1,1,5,3,4,174,15,0,1,0.0,93.3,6.7
+17411,Issaquah,3385,Issaquah High School,5,562,0,1,2,13,6,107,460,435,3,94.6,4.8,0.7
+17411,Issaquah,1624,Issaquah Special Services,0,4,0,0,0,0,0,3,1,1,0,100.0,0.0,0.0
+17411,Issaquah,3962,Liberty Sr High School,334,65,3,2,0,3,1,108,291,277,5,95.2,3.1,1.7
+17411,Issaquah,5026,Pacific Cascade Freshman Campus,1017,6,4,0,0,0,0,1019,4,0,0,0.0,100.0,0.0
+17411,Issaquah,4495,Skyline High School,4,529,0,4,2,2,2,60,473,461,2,97.5,2.1,0.4
+17411,Issaquah,1540,Tiger Mountain Community High School,12,50,0,1,4,5,5,18,44,29,0,65.9,34.1,0.0
+11056,Kahlotus,3214,Kahlotus Elem & High,8,2,0,0,0,0,0,6,4,4,0,100.0,0.0,0.0
+08402,Kalama,2561,Kalama Jr Sr High,100,15,0,1,0,3,0,33,82,77,1,93.9,4.9,1.2
+08458,Kelso,2266,Kelso High School,503,122,0,4,12,27,12,218,407,350,2,86.0,13.5,0.5
+08458,Kelso,5194,Kelso Virtual Academy,0,4,0,0,0,0,1,3,1,0,0,0.0,100.0,0.0
+08458,Kelso,1934,Loowit High School,8,31,0,0,0,1,2,25,14,9,2,64.3,21.4,14.3
+03017,Kennewick,3731,Kamiakin High School,510,143,4,5,10,20,7,235,418,365,7,87.3,11.0,1.7
+03017,Kennewick,2826,Kennewick High School,434,130,4,8,14,17,13,256,308,243,9,78.9,18.2,2.9
+03017,Kennewick,1884,Legacy High School,0,179,0,0,18,32,19,80,99,23,7,23.2,69.7,7.1
+03017,Kennewick,5106,Phoenix High School,0,42,0,0,0,2,4,17,25,14,5,56.0,24.0,20.0
+03017,Kennewick,4484,Southridge High School,420,121,7,2,3,13,12,181,360,318,5,88.3,10.3,1.4
+17415,Kent,3014,Kent Mountain View Academy,29,76,0,1,6,8,7,29,76,50,4,65.8,28.9,5.3
+17415,Kent,5098,Kent Phoenix Academy,0,254,0,3,23,39,34,98,156,45,12,28.8,63.5,7.7
+17415,Kent,4492,Kentlake High School,451,191,6,4,9,27,7,258,384,321,10,83.6,13.8,2.6
+17415,Kent,2797,Kent-Meridian High School,640,261,16,22,19,26,29,485,416,273,31,65.6,26.9,7.5
+17415,Kent,3640,Kentridge High School,638,141,14,14,14,44,9,198,581,483,3,83.1,16.4,0.5
+17415,Kent,4128,Kentwood High School,744,120,6,11,13,33,12,339,525,447,3,85.1,14.3,0.6
+17415,Kent,1807,Regional Justice Center,3,54,1,0,0,0,1,53,4,0,2,0.0,50.0,50.0
+33212,Kettle Falls,4206,Kettle Falls High School,86,23,0,2,2,3,0,36,73,65,1,89.0,9.6,1.4
+03052,Kiona-Benton City,2904,Kiona-Benton City High School,166,43,5,4,2,9,4,62,147,122,1,83.0,16.3,0.7
+19403,Kittitas,2766,Kittitas High School,60,15,0,2,1,2,1,21,54,46,2,85.2,11.1,3.7
+19403,Kittitas,3213,Parke Creek Treatment Ctr,1,65,0,0,2,5,5,54,12,0,0,0.0,100.0,0.0
+19403,Kittitas,5095,Productive Learning Academics Northwest,25,108,0,8,19,0,0,106,27,0,0,0.0,100.0,0.0
+20402,Klickitat,3494,Klickitat Elem & High,19,4,0,0,1,0,0,9,14,13,0,92.9,7.1,0.0
+06101,La Center,4431,La Center High School,135,30,1,2,5,6,3,51,114,97,0,85.1,14.9,0.0
+29311,La Conner,2276,La Conner High School,66,13,0,1,3,1,2,24,55,46,2,83.6,12.7,3.6
+38126,LaCrosse,2088,Lacrosse High School,15,3,0,0,0,0,0,7,11,11,0,100.0,0.0,0.0
+04129,Lake Chelan,4260,Chelan High School,128,26,2,0,2,2,1,63,91,81,3,89.0,7.7,3.3
+04129,Lake Chelan,5038,Chelan Prepatory High School,29,6,11,2,1,1,0,16,19,1,3,5.3,78.9,15.8
+04129,Lake Chelan,1940,Glacier Valley High School,1,25,0,0,0,2,1,11,15,11,1,73.3,20.0,6.7
+14097,Lake Quinault,2973,Lake Quinault High School,25,13,0,0,0,5,2,18,20,13,0,65.0,35.0,0.0
+31004,Lake Stevens,1753,Homelink,14,14,0,0,0,1,0,20,8,6,1,75.0,12.5,12.5
+31004,Lake Stevens,2426,Lake Stevens Sr High School,637,142,4,4,14,23,9,261,518,461,3,89.0,10.4,0.6
+31004,Lake Stevens,4140,Prove High School,16,54,0,1,4,9,0,55,15,1,0,6.7,93.3,0.0
+17414,Lake Washington,1976,19-21 Transition Academy,0,8,0,0,0,0,0,7,1,1,0,100.0,0.0,0.0
+17414,Lake Washington,3855,Best Sr High,16,95,0,1,1,12,5,65,46,26,1,56.5,41.3,2.2
+17414,Lake Washington,4439,Eastlake High School,3,462,0,0,2,4,5,61,404,390,3,96.5,2.7,0.7
+17414,Lake Washington,1800,Environmental & Adventure School,28,0,0,1,0,0,0,27,1,0,0,0.0,100.0,0.0
+17414,Lake Washington,4148,Evergreen Junior High,243,0,1,0,0,0,0,242,1,0,0,0.0,100.0,0.0
+17414,Lake Washington,1688,Family Learning Center,21,37,0,0,1,1,1,28,30,21,6,70.0,10.0,20.0
+17414,Lake Washington,1804,Futures School,1,54,0,0,0,0,0,23,32,32,0,100.0,0.0,0.0
+17414,Lake Washington,1706,International Community School,62,1,0,0,0,0,0,12,51,51,0,100.0,0.0,0.0
+17414,Lake Washington,3771,Juanita High,70,380,0,3,2,1,2,157,293,283,2,96.6,2.7,0.7
+17414,Lake Washington,2739,Lake Washington High,72,385,0,8,5,7,8,138,319,289,2,90.6,8.8,0.6
+17414,Lake Washington,4167,Northstar,16,0,1,0,0,0,0,15,1,0,0,0.0,100.0,0.0
+17414,Lake Washington,3528,Redmond High,51,498,0,3,2,21,5,125,424,393,0,92.7,7.3,0.0
+17414,Lake Washington,3232,Redmond Junior High School,251,1,0,0,0,0,0,251,1,0,1,0.0,0.0,100.0
+17414,Lake Washington,3706,Rose Hill Junior High,173,0,1,0,0,0,0,172,1,0,0,0.0,100.0,0.0
+31306,Lakewood,4204,Lakewood High School,240,73,5,1,5,12,7,118,195,162,3,83.1,15.4,1.5
+32362,Liberty,3416,Liberty High School,51,16,0,0,1,3,4,24,43,35,0,81.4,18.6,0.0
+01158,Lind,2903,Lind Jr Sr High,25,10,0,0,1,1,1,19,16,13,0,81.3,18.8,0.0
+08122,Longview,3151,Mark Morris High School,339,118,0,5,14,12,15,148,309,250,13,80.9,14.9,4.2
+08122,Longview,2416,R A Long High School,320,110,2,10,23,19,19,136,294,200,21,68.0,24.8,7.1
+28144,Lopez,2632,Lopez Middle High School,29,7,0,0,1,1,2,14,22,17,1,77.3,18.2,4.5
+20406,Lyle,3111,Lyle High School,27,12,2,0,2,0,0,23,16,12,0,75.0,25.0,0.0
+37504,Lynden,1983,Lynden Academy,10,13,0,0,0,3,3,12,11,4,1,36.4,54.5,9.1
+37504,Lynden,4201,Lynden High School,225,79,2,1,5,6,2,88,216,192,8,88.9,7.4,3.7
+37504,Lynden,1783,Timber Ridge,8,12,1,0,4,0,0,13,7,1,1,14.3,71.4,14.3
+39120,Mabton,2593,Mabton Sr High School,95,24,2,6,2,6,2,35,84,66,0,78.6,21.4,0.0
+09207,Mansfield,2233,Mansfield Elem and High School,8,4,0,0,0,0,2,2,10,8,0,80.0,20.0,0.0
+04019,Manson,2623,Manson Junior Senior High School,53,12,0,0,0,1,1,20,45,43,0,95.6,4.4,0.0
+23311,Mary M Knight,3495,Mary M Knight High School,18,6,0,0,1,1,0,10,14,12,0,85.7,14.3,0.0
+33207,Mary Walker,1820,Mary Walker Alternative High Schl,3,13,2,1,1,1,0,7,9,4,0,44.4,55.6,0.0
+33207,Mary Walker,3311,Mary Walker High School,53,13,0,1,2,2,0,24,42,36,1,85.7,11.9,2.4
+33207,Mary Walker,1819,Parent Partner Program,14,2,0,0,1,0,0,8,8,4,3,50.0,12.5,37.5
+31025,Marysville,5209,Academy of Const and Engineering,0,8,0,0,0,0,0,6,2,2,0,100.0,0.0,0.0
+31025,Marysville,5210,Bio Med Academy,0,5,0,0,0,0,1,3,2,1,0,50.0,50.0,0.0
+31025,Marysville,1657,Heritage School,13,40,0,2,5,5,2,29,24,9,1,37.5,58.3,4.2
+31025,Marysville,5211,Intl Sch of Communications,0,3,0,0,0,0,1,0,3,2,0,66.7,33.3,0.0
+31025,Marysville,1927,Marysville Arts and Technology High School,60,74,0,1,2,5,1,57,77,66,2,85.7,11.7,2.6
+31025,Marysville,4233,Marysville Mountain View High School,26,152,0,2,12,14,24,75,103,48,3,46.6,50.5,2.9
+31025,Marysville,5212,Marysville On-line Move Up Program,0,33,0,0,0,0,19,6,27,6,2,22.2,70.4,7.4
+31025,Marysville,3756,Marysville Pilchuck High School,473,521,5,3,13,23,0,479,515,471,0,91.5,8.5,0.0
+31025,Marysville,1910,Marysville SD Special,5,24,0,1,1,0,2,11,18,5,9,27.8,22.2,50.0
+31025,Marysville,5213,MP Pathways of Choice,0,20,0,0,0,0,3,6,14,8,3,57.1,21.4,21.4
+31025,Marysville,5214,School for the Entrepreneur,0,5,0,0,0,0,0,1,4,3,1,75.0,0.0,25.0
+31025,Marysville,1744,School Home Partnership Program,50,263,1,5,15,28,13,206,107,38,7,35.5,57.9,6.5
+31025,Marysville,2813,Totem Middle School,462,0,2,0,0,0,0,460,2,0,0,0.0,100.0,0.0
+32354,Mead,1803,Mead Alternative High School,9,83,0,1,5,13,5,39,53,26,3,49.1,45.3,5.7
+32354,Mead,1858,Mead Education Partnership Prog,10,31,0,1,3,1,0,25,16,10,1,62.5,31.3,6.3
+32354,Mead,2402,Mead Senior High School,433,87,1,1,9,6,8,124,396,368,3,92.9,6.3,0.8
+32354,Mead,4491,Mt Spokane High School,335,81,2,0,4,4,3,144,272,256,3,94.1,4.8,1.1
+32326,Medical Lake,5042,Medical Lake Alternative High School,3,36,0,0,1,1,2,18,21,17,0,81.0,19.0,0.0
+32326,Medical Lake,2890,Medical Lake High School,182,71,0,1,1,2,1,92,161,156,0,96.9,3.1,0.0
+17400,Mercer Island,3029,Mercer Island High School,352,59,0,2,3,6,0,78,333,319,3,95.8,3.3,0.9
+37505,Meridian,2554,Meridian High School,129,45,0,3,3,10,7,68,106,82,1,77.4,21.7,0.9
+24350,Methow Valley,1621,Alternative School,0,16,0,0,0,4,6,4,12,2,0,16.7,83.3,0.0
+24350,Methow Valley,1845,Home School Experience,1,1,1,0,0,0,0,1,1,0,0,0.0,100.0,0.0
+24350,Methow Valley,2146,Liberty Bell Jr Sr High,50,13,0,0,0,0,0,25,38,37,1,97.4,0.0,2.6
+31103,Monroe,1806,Leaders In Learning,21,282,1,3,13,29,87,101,202,19,50,9.4,65.8,24.8
+31103,Monroe,3692,Leaders In Learning,0,3,0,0,0,1,0,0,3,2,0,66.7,33.3,0.0
+31103,Monroe,4528,Monroe High School,498,92,4,3,4,6,6,232,358,325,10,90.8,6.4,2.8
+31103,Monroe,1643,Out Of District Special Ed,5,1,0,0,0,0,1,5,1,0,0,0.0,100.0,0.0
+31103,Monroe,5154,Shoreline-Monroe High School,0,261,0,0,3,62,93,26,235,2,75,0.9,67.2,31.9
+31103,Monroe,1777,Sky Valley Education Center,52,33,1,1,2,2,2,41,44,35,1,79.5,18.2,2.3
+31103,Monroe,5109,WAVA,0,409,0,0,0,42,11,303,106,40,13,37.7,50.0,12.3
+14066,Montesano,2180,Montesano Jr-Sr High,111,21,1,1,0,3,0,47,85,79,1,92.9,5.9,1.2
+14066,Montesano,5193,Montesano Learning Academy,0,5,0,0,0,0,2,1,4,1,1,25.0,50.0,25.0
+21214,Morton,3112,Morton Junior-Senior High,35,17,0,1,4,3,1,22,30,21,0,70.0,30.0,0.0
+13161,Moses Lake,4580,Columbia Basin Secondary School,22,96,0,5,6,13,12,60,58,17,5,29.3,62.1,8.6
+13161,Moses Lake,3215,Moses Lake High School,518,168,6,10,17,34,30,231,455,349,9,76.7,21.3,2.0
+21206,Mossyrock,5227,Mossyrock Academy,0,2,0,0,0,0,0,1,1,1,0,100.0,0.0,0.0
+21206,Mossyrock,3238,Mossyrock Jr./Sr. High School,69,19,0,0,1,2,0,30,58,52,3,89.7,5.2,5.2
+39209,Mount Adams,2532,White Swan High School,100,17,3,3,2,6,21,43,74,35,4,47.3,47.3,5.4
+37507,Mount Baker,5112,Mount Baker Academy,0,5,0,0,0,2,0,3,2,0,0,0.0,100.0,0.0
+37507,Mount Baker,2343,Mount Baker Senior High,211,47,1,4,7,11,6,70,188,150,9,79.8,15.4,4.8
+37507,Mount Baker,1783,Timber Ridge,6,8,1,0,0,0,0,13,1,0,0,0.0,100.0,0.0
+29320,Mount Vernon,2295,Mount Vernon High School,498,212,5,20,29,32,39,281,429,287,17,66.9,29.1,4.0
+29320,Mount Vernon,3829,Mount Vernon Special Ed,2,4,0,0,2,0,0,4,2,0,0,0.0,100.0,0.0
+29320,Mount Vernon,1992,Skagit Family Learning Center MVSD,11,14,0,0,0,0,0,24,1,0,1,0.0,0.0,100.0
+31006,Mukilteo,4247,ACES High School,1,149,0,0,6,11,11,49,101,67,6,66.3,27.7,5.9
+31006,Mukilteo,4430,Harbour Pointe Middle School,1,0,0,0,0,0,0,0,1,1,0,100.0,0.0,0.0
+31006,Mukilteo,4433,Kamiak High School,611,100,1,1,6,6,2,188,523,499,8,95.4,3.1,1.5
+31006,Mukilteo,3688,Mariner High School,645,211,3,9,9,25,10,448,408,332,20,81.4,13.7,4.9
+39003,Naches Valley,2591,Naches Valley High School,136,38,0,0,0,4,6,45,129,118,1,91.5,7.8,0.8
+21014,Napavine,2273,Napavine Jr Sr High School,60,19,0,0,1,1,0,38,41,39,0,95.1,4.9,0.0
+25155,Naselle-Grays River Valley,3295,Naselle Jr Sr High Schools,30,10,0,0,0,0,0,7,33,33,0,100.0,0.0,0.0
+25155,Naselle-Grays River Valley,3599,Naselle Youth Camp School,26,198,0,7,13,24,4,170,54,5,1,9.3,88.9,1.9
+26056,Newport,5117,Newport Alternative High School,0,17,0,0,0,4,0,11,6,2,0,33.3,66.7,0.0
+26056,Newport,2518,Newport High School,111,30,1,2,2,3,9,41,100,76,7,76.0,17.0,7.0
+26056,Newport,5118,Newport Parent Partnership,0,1,0,0,0,0,0,0,1,1,0,100.0,0.0,0.0
+32325,Nine Mile Falls,4333,Lakeside High School,176,31,0,0,1,1,3,60,147,140,2,95.2,3.4,1.4
+32325,Nine Mile Falls,1722,Phoenix Alternative School,5,14,0,0,2,1,5,10,9,1,0,11.1,88.9,0.0
+37506,Nooksack Valley,2459,Nooksack Valley High School,146,46,3,2,4,7,10,55,137,106,5,77.4,19.0,3.6
+37506,Nooksack Valley,1783,Timber Ridge,8,6,1,0,1,1,0,11,3,0,0,0.0,100.0,0.0
+14064,North Beach,2728,North Beach Senior High School,64,26,1,1,5,8,3,39,51,33,0,64.7,35.3,0.0
+11051,North Franklin,1850,Camp Outlook,7,38,0,0,0,0,3,41,4,1,0,25.0,75.0,0.0
+11051,North Franklin,3272,Connell High School,157,26,1,0,0,0,0,86,97,95,1,97.9,1.0,1.0
+11051,North Franklin,1754,Palouse Junction High School,3,61,0,0,4,7,6,18,46,29,0,63.0,37.0,0.0
+18400,North Kitsap,5085,Kingston High School,0,287,0,1,5,9,16,66,221,181,9,81.9,14.0,4.1
+18400,North Kitsap,4359,Kingston Middle School,248,0,1,0,0,0,0,247,1,0,0,0.0,100.0,0.0
+18400,North Kitsap,3236,North Kitsap High School,20,422,0,0,2,29,16,92,350,286,17,81.7,13.4,4.9
+18400,North Kitsap,1733,Pal Program,14,34,0,0,1,0,0,47,1,0,0,0.0,100.0,0.0
+18400,North Kitsap,2476,Poulsbo Middle School,320,0,0,1,0,0,0,319,1,0,0,0.0,100.0,0.0
+18400,North Kitsap,1677,Special Programs,0,1,0,0,0,0,0,0,1,1,0,100.0,0.0,0.0
+18400,North Kitsap,1562,Spectrum Community School,7,20,0,1,2,0,0,23,4,1,0,25.0,75.0,0.0
+23403,North Mason,1861,North Mason Homelink Program,10,18,2,0,0,0,2,14,14,9,1,64.3,28.6,7.1
+23403,North Mason,3175,North Mason Senior High School,209,49,2,4,3,3,1,112,146,131,2,89.7,8.9,1.4
+23403,North Mason,1680,PACE Academy (OPTIONS),4,28,0,1,0,0,4,11,21,10,6,47.6,23.8,28.6
+25200,North River,2292,North River School,5,5,0,0,0,1,0,3,7,5,1,71.4,14.3,14.3
+34003,North Thurston,3010,North Thurston High School,423,154,2,6,6,15,17,250,327,280,1,85.6,14.1,0.3
+34003,North Thurston,4427,River Ridge High School,343,133,3,7,8,15,10,211,265,222,0,83.8,16.2,0.0
+34003,North Thurston,4314,South Sound High School,13,136,0,3,8,17,18,68,81,35,0,43.2,56.8,0.0
+34003,North Thurston,3710,Timberline High School,427,159,4,2,9,20,7,236,350,308,0,88.0,12.0,0.0
+33211,Northport,2958,Northport High School,15,20,0,2,1,2,0,15,20,14,1,70.0,25.0,5.0
+17417,Northshore,3106,Bothell High School,1,711,0,5,8,36,5,163,549,489,6,89.1,9.8,1.1
+17417,Northshore,3493,Canyon Park Jr High,318,0,1,0,0,0,0,317,1,0,0,0.0,100.0,0.0
+17417,Northshore,3492,Inglemoor HS,1,719,0,2,3,14,1,168,552,527,5,95.5,3.6,0.9
+17417,Northshore,1814,Northshore Networks,57,92,1,1,0,12,3,82,67,50,0,74.6,25.4,0.0
+17417,Northshore,1815,Northshore Special Services,2,3,0,0,1,0,0,3,2,1,0,50.0,50.0,0.0
+17417,Northshore,3811,Secondary Academy for Success,23,41,0,1,1,3,4,21,43,33,1,76.7,20.9,2.3
+17417,Northshore,4371,Skyview Jr High,320,3,2,0,0,0,0,321,2,0,0,0.0,100.0,0.0
+17417,Northshore,3396,Woodinville Community Center,1,10,0,0,0,0,1,8,3,2,0,66.7,33.3,0.0
+17417,Northshore,4208,Woodinville HS,0,525,0,2,3,5,2,125,400,379,9,94.8,3.0,2.3
+15201,Oak Harbor,1758,Homeconnection,6,13,2,0,0,1,0,5,14,5,6,35.7,21.4,42.9
+15201,Oak Harbor,2974,Oak Harbor High School,437,146,4,0,6,12,31,190,393,329,11,83.7,13.5,2.8
+38324,Oakesdale,2432,Oakesdale High School,8,3,0,0,0,0,0,1,10,10,0,100.0,0.0,0.0
+14400,Oakville,2283,Oakville High School,34,14,0,0,1,3,2,16,32,24,2,75.0,18.8,6.3
+25101,Ocean Beach,1696,Ilwaco Alternative High School,3,0,1,0,0,0,0,2,1,0,0,0.0,100.0,0.0
+25101,Ocean Beach,4220,Ilwaco Middle/High School,95,37,1,1,4,5,3,50,82,67,1,81.7,17.1,1.2
+14172,Ocosta,3024,Ocosta Junior - Senior High,58,21,0,0,3,1,0,37,42,36,2,85.7,9.5,4.8
+22105,Odessa,2443,Odessa High School,25,4,1,1,0,0,0,12,17,15,0,88.2,11.8,0.0
+34974,Office of the Governor (School for the Blind),3799,Washington State School for the Blind,7,7,0,0,0,0,0,4,10,5,5,50.0,0.0,50.0
+24105,Okanogan,1980,Okanogan Alternative High School,2,31,0,1,5,7,5,5,28,5,5,17.9,64.3,17.9
+24105,Okanogan,2246,Okanogan High School,98,23,2,1,0,2,1,62,59,52,1,88.1,10.2,1.7
+24105,Okanogan,5151,Okanogan Outreach Alternative School,0,34,0,0,0,1,7,17,17,7,2,41.2,47.1,11.8
+34111,Olympia,1768,Avanti High School,15,59,0,0,2,7,5,44,30,15,1,50.0,46.7,3.3
+34111,Olympia,3960,Capital High School,397,98,0,2,5,11,6,161,334,307,3,91.9,7.2,0.9
+34111,Olympia,3132,Olympia High School,484,110,0,0,0,17,8,177,417,388,4,93.0,6.0,1.0
+34111,Olympia,5078,Olympia Regional Learning Academy,9,53,0,1,1,7,6,41,21,5,1,23.8,71.4,4.8
+24019,Omak,4279,Omak Alternative High School,17,47,1,0,2,4,15,31,33,10,1,30.3,66.7,3.0
+24019,Omak,2031,Omak High School,118,38,0,1,0,1,0,68,88,86,0,97.7,2.3,0.0
+24019,Omak,5197,Washington Virtual Academy Omak High School,0,9,0,0,0,4,1,4,5,0,0,0.0,100.0,0.0
+21300,Onalaska,1990,Carlisle Lake Alt School Youth Center,12,44,1,0,2,3,5,28,28,17,0,60.7,39.3,0.0
+21300,Onalaska,5146,CVA - Onalaska,0,30,0,0,1,4,4,18,12,2,1,16.7,75.0,8.3
+21300,Onalaska,2331,Onalaska High School,79,25,1,0,2,0,0,52,52,49,0,94.2,5.8,0.0
+28137,Orcas Island,1892,OASIS K-12,2,11,0,0,0,4,0,0,13,7,2,53.8,30.8,15.4
+28137,Orcas Island,2750,Orcas Island High School,41,13,0,0,0,4,0,27,27,22,1,81.5,14.8,3.7
+24410,Oroville,2706,Oroville Middle-High School,51,26,1,0,0,5,0,34,43,36,1,83.7,14.0,2.3
+27344,Orting,2942,Orting High School,193,73,1,2,6,1,1,83,183,168,4,91.8,6.0,2.2
+01147,Othello,3015,Othello High School,273,47,5,5,14,13,16,70,250,193,4,77.2,21.2,1.6
+38301,Palouse,2634,Palouse High School,20,5,0,0,0,0,0,2,23,22,1,95.7,0.0,4.3
+11001,Pasco,5164,Chiawana High School,0,65,0,0,0,14,8,25,40,13,5,32.5,55.0,12.5
+11001,Pasco,3912,New Horizons High School,31,97,0,5,9,18,15,34,94,34,13,36.2,50.0,13.8
+11001,Pasco,2917,Pasco Senior High School,990,163,17,28,47,53,22,405,748,561,20,75.0,22.3,2.7
+24122,Pateros,2397,Pateros High School,31,3,0,0,0,1,0,10,24,23,0,95.8,4.2,0.0
+21301,Pe Ell,2858,Pe Ell School,30,3,0,0,0,1,0,7,26,25,0,96.2,3.8,0.0
+27401,Peninsula,4081,Gig Harbor High,431,93,0,2,4,4,12,122,402,377,3,93.8,5.5,0.7
+27401,Peninsula,1516,Henderson Bay Alt High School,22,66,1,3,4,4,8,42,46,14,12,30.4,43.5,26.1
+27401,Peninsula,2681,Peninsula High School,451,93,2,3,9,15,11,190,354,309,5,87.3,11.3,1.4
+27401,Peninsula,5121,Tacoma Community College Fresh Start Program,0,32,0,0,4,4,0,24,8,0,0,0.0,100.0,0.0
+12110,Pomeroy,2241,Pomeroy Jr Sr High School,36,13,0,0,0,0,1,15,34,33,0,97.1,2.9,0.0
+05121,Port Angeles,4003,Lincoln High School,13,102,0,1,7,19,26,37,78,18,7,23.1,67.9,9.0
+05121,Port Angeles,2908,Port Angeles High School,392,78,5,8,9,15,12,176,294,237,8,80.6,16.7,2.7
+16050,Port Townsend,2503,Port Townsend High School,135,65,1,2,3,9,6,58,142,117,4,82.4,14.8,2.8
+36402,Prescott,3575,Prescott Jr Sr High,11,15,0,0,0,0,0,13,13,13,0,100.0,0.0,0.0
+03116,Prosser,1728,Prosser Falls Education Center,0,44,0,0,1,3,7,13,31,17,3,54.8,35.5,9.7
+03116,Prosser,2508,Prosser High School,272,40,2,0,5,10,3,119,193,166,7,86.0,10.4,3.6
+38267,Pullman,2499,Pullman High School,179,59,7,2,4,5,5,59,179,154,2,86.0,12.8,1.1
+27003,Puyallup,3447,Aylen Jr High,295,1,1,0,0,0,0,295,1,0,0,0.0,100.0,0.0
+27003,Puyallup,4110,Chief Leschi Schools,79,16,1,4,4,10,4,43,52,28,1,53.8,44.2,1.9
+27003,Puyallup,4443,Doris Stahl Junior High,405,0,1,0,0,0,0,404,1,0,0,0.0,100.0,0.0
+27003,Puyallup,3972,E B Walker High School,46,119,1,2,10,10,6,87,78,43,6,55.1,37.2,7.7
+27003,Puyallup,4540,Emerald Ridge High School,0,704,0,10,24,23,4,193,511,449,1,87.9,11.9,0.2
+27003,Puyallup,3645,Gov John Rogers High School,1,775,0,5,12,23,9,206,570,509,12,89.3,8.6,2.1
+27003,Puyallup,1640,Phoenix Program,0,39,0,0,0,4,11,13,26,8,3,30.8,57.7,11.5
+27003,Puyallup,2125,Puyallup High School,0,705,0,19,29,52,9,203,502,388,5,77.3,21.7,1.0
+16048,Quilcene,5081,Crossroads Community School,3,1,0,0,0,2,0,0,4,2,0,50.0,50.0,0.0
+16048,Quilcene,2474,Quilcene High And Elementary,27,10,0,0,0,0,0,12,25,25,0,100.0,0.0,0.0
+05402,Quillayute Valley,1671,District Run Home School,8,6,0,0,0,0,2,8,6,2,2,33.3,33.3,33.3
+05402,Quillayute Valley,1500,Forks Alternative School,5,22,3,0,1,1,3,7,20,5,7,25.0,40.0,35.0
+05402,Quillayute Valley,2349,Forks High School,97,22,0,0,2,2,1,57,62,56,1,90.3,8.1,1.6
+05402,Quillayute Valley,5071,Insight School of Washington,266,1695,44,56,97,287,219,910,1051,247,101,23.5,66.9,9.6
+05402,Quillayute Valley,4174,Quileute Tribal School,9,6,0,0,0,0,4,8,7,3,0,42.9,57.1,0.0
+13144,Quincy,3088,Quincy High School,176,33,3,9,8,7,4,58,151,117,3,77.5,20.5,2.0
+13144,Quincy,1506,Quincy High Tech High,11,27,0,0,4,6,7,13,25,6,2,24.0,68.0,8.0
+34307,Rainier,2468,Rainier Senior High School,84,39,0,0,0,3,1,62,61,57,0,93.4,6.6,0.0
+25116,Raymond,2357,Raymond Jr Sr High School,53,14,0,0,2,3,2,19,48,39,2,81.3,14.6,4.2
+22009,Reardan-Edwall,2478,Reardan Middle-Senior High School,64,22,1,0,1,1,0,35,51,48,0,94.1,5.9,0.0
+22009,Reardan-Edwall,5237,Reardan Online Academy,0,1,0,0,0,0,1,0,1,0,0,0.0,100.0,0.0
+17403,Renton,2212,Black River High School,38,79,0,5,5,8,1,79,38,19,0,50.0,50.0,0.0
+17403,Renton,3630,Hazen Senior High School,352,100,0,3,5,9,6,166,286,258,5,90.2,8.0,1.7
+17403,Renton,1784,Home Program,7,37,0,0,1,2,1,21,23,18,1,78.3,17.4,4.3
+17403,Renton,3741,Lindbergh Senior High School,388,117,2,9,6,6,13,196,309,260,13,84.1,11.7,4.2
+17403,Renton,2475,Renton Senior High School,386,132,7,5,11,14,6,261,257,213,1,82.9,16.7,0.4
+17403,Renton,1527,Sartori Education Center,1,110,0,0,4,13,16,27,84,20,31,23.8,39.3,36.9
+10309,Republic,1898,Republic Parent Partner,2,9,0,0,1,0,0,9,2,1,0,50.0,50.0,0.0
+10309,Republic,3579,Republic Senior High School,40,10,0,0,0,0,3,20,30,25,2,83.3,10.0,6.7
+03400,Richland,3833,Hanford High School,403,131,1,4,7,15,2,173,361,329,3,91.1,8.0,0.8
+03400,Richland,3511,Richland High School,522,132,0,0,4,12,6,261,393,370,1,94.1,5.6,0.3
+03400,Richland,4295,Rivers Edge High School,28,156,0,1,5,21,27,88,96,29,13,30.2,56.3,13.5
+03400,Richland,5165,Three Rivers Home Link,0,8,0,0,0,1,2,1,7,4,0,57.1,42.9,0.0
+06122,Ridgefield,2390,Ridgefield High School,203,62,2,2,1,4,6,116,149,132,2,88.6,10.1,1.3
+01160,Ritzville,2132,Ritzville High School,33,13,0,0,0,3,3,15,31,23,2,74.2,19.4,6.5
+32416,Riverside,1919,Independent Scholar,12,9,0,0,0,0,0,12,9,8,1,88.9,0.0,11.1
+32416,Riverside,1554,Riverside Achievement Center,6,10,0,2,0,0,0,13,3,0,1,0.0,66.7,33.3
+32416,Riverside,4228,Riverside High School,152,67,0,0,0,3,2,83,136,130,1,95.6,3.7,0.7
+32416,Riverside,5005,Riverside Opportunity Center,0,8,0,0,0,0,0,6,2,0,2,0.0,0.0,100.0
+17407,Riverview,3524,Cedarcrest High School,274,41,1,1,4,3,3,103,212,196,4,92.5,5.7,1.9
+17407,Riverview,1756,CLIP,4,23,0,1,0,3,2,9,18,12,0,66.7,33.3,0.0
+17407,Riverview,1854,PARADE,9,5,0,0,0,0,0,4,10,9,1,90.0,0.0,10.0
+34401,Rochester,1735,H.e.a.r.t. High School,0,22,0,0,1,5,4,7,15,4,1,26.7,66.7,6.7
+34401,Rochester,2029,Maple Lane School,18,221,0,1,0,1,0,234,5,0,3,0.0,40.0,60.0
+34401,Rochester,4326,Rochester High School,163,66,0,1,4,6,6,120,109,90,2,82.6,15.6,1.8
+38320,Rosalia,3204,Rosalia Elementary & Secondary School,22,3,0,0,0,0,0,10,15,15,0,100.0,0.0,0.0
+13160,Royal,3516,Royal High School,111,18,0,1,4,4,1,45,84,73,1,86.9,11.9,1.2
+28149,San Juan Island,2879,Friday Harbor High School,94,19,0,1,0,4,0,34,79,73,1,92.4,6.3,1.3
+28149,San Juan Island,1963,Griffin Bay School,4,18,0,1,3,1,1,10,12,5,1,41.7,50.0,8.3
+17001,Seattle,2220,Ballard High School,400,118,0,2,2,11,5,153,365,339,6,92.9,5.5,1.6
+17001,Seattle,3096,Chief Sealth High School,270,155,8,8,12,16,6,204,221,163,8,73.8,22.6,3.6
+17001,Seattle,2392,Cleveland High School,154,186,1,5,7,21,5,211,129,84,6,65.1,30.2,4.7
+17001,Seattle,1750,Education Service Centers,9,121,6,1,16,4,2,101,29,0,0,0.0,100.0,0.0
+17001,Seattle,2182,Franklin High School,393,95,1,6,6,16,6,216,272,230,7,84.6,12.9,2.6
+17001,Seattle,2306,Garfield High School,408,101,0,2,3,15,9,128,381,346,6,90.8,7.6,1.6
+17001,Seattle,1751,Home School Resource Center,18,18,1,0,0,2,4,20,16,8,1,50.0,43.8,6.3
+17001,Seattle,4277,Hutch School,5,6,0,0,1,0,0,10,1,0,0,0.0,100.0,0.0
+17001,Seattle,3276,Ingraham High School,280,182,2,9,5,9,6,226,236,194,11,82.2,13.1,4.7
+17001,Seattle,1635,Interagency Programs,78,423,2,3,25,31,55,329,172,35,21,20.3,67.4,12.2
+17001,Seattle,3871,John Marshall High School,62,14,1,1,0,0,0,74,2,0,0,0.0,100.0,0.0
+17001,Seattle,1547,Middle College High School,7,169,0,1,4,8,31,45,131,68,19,51.9,33.6,14.5
+17001,Seattle,3479,Nathan Hale High School,284,79,1,1,0,10,2,141,222,205,3,92.3,6.3,1.4
+17001,Seattle,3868,Nova High School,63,50,0,0,0,4,1,47,66,56,5,84.8,7.6,7.6
+17001,Seattle,5046,Private School Services,0,2,0,0,0,1,0,1,1,0,0,0.0,100.0,0.0
+17001,Seattle,3327,Rainier Beach High School,124,186,2,6,2,3,20,177,133,98,2,73.7,24.8,1.5
+17001,Seattle,4263,Residential Consortium,10,13,0,0,1,0,0,22,1,0,0,0.0,100.0,0.0
+17001,Seattle,2285,Roosevelt High School,451,96,0,4,2,11,10,159,388,354,7,91.2,7.0,1.8
+17001,Seattle,1596,Secondary BOC,159,47,15,13,1,1,1,174,32,0,1,0.0,96.9,3.1
+17001,Seattle,3778,South Lake High School,39,130,2,1,4,9,11,109,60,25,8,41.7,45.0,13.3
+17001,Seattle,3869,Summit K-12,66,53,0,5,2,1,0,110,9,1,0,11.1,88.9,0.0
+17001,Seattle,1856,The Center School,85,23,0,1,0,1,0,62,46,44,0,95.7,4.3,0.0
+17001,Seattle,2234,West Seattle High School,359,103,5,5,4,13,3,178,284,249,5,87.7,10.6,1.8
+29101,Sedro-Woolley,2150,Sedro Woolley Senior High School,361,75,0,1,4,4,8,186,250,232,1,92.8,6.8,0.4
+29101,Sedro-Woolley,1537,State Street High School,22,331,0,2,27,63,57,91,262,90,23,34.4,56.9,8.8
+39119,Selah,4272,Selah Academy,26,182,2,8,3,4,8,169,39,8,6,20.5,64.1,15.4
+39119,Selah,2388,Selah High School,4,375,0,4,7,7,8,97,282,244,12,86.5,9.2,4.3
+39119,Selah,4546,Selah Intermediate,0,1,0,0,0,0,0,0,1,0,1,0.0,0.0,100.0
+26070,Selkirk,5226,Selkirk High School,0,1,0,0,0,0,0,0,1,1,0,100.0,0.0,0.0
+26070,Selkirk,3497,Selkirk Jr-Sr High,36,6,1,0,0,0,0,15,27,26,0,96.3,3.7,0.0
+05323,Sequim,1708,Sequim Community School,8,35,0,0,0,3,13,15,28,10,2,35.7,57.1,7.1
+05323,Sequim,2471,Sequim Senior High,274,80,1,9,6,14,11,117,237,188,8,79.3,17.3,3.4
+23309,Shelton,4288,Choice Alternative School,38,150,0,3,7,28,21,81,107,30,18,28.0,55.1,16.8
+23309,Shelton,4363,Oakland Bay Junior High School,446,6,2,0,0,0,0,450,2,0,0,0.0,100.0,0.0
+23309,Shelton,3241,Shelton High School,0,463,0,4,11,20,9,158,305,256,5,83.9,14.4,1.6
+17412,Shoreline,2612,Fircrest Residential Habilitation,0,8,0,0,0,0,0,5,3,0,3,0.0,0.0,100.0
+17412,Shoreline,1667,Handicapped Contractual Services,8,5,0,0,1,1,0,11,2,0,0,0.0,100.0,0.0
+17412,Shoreline,1771,Home Education Exchange,9,9,0,0,0,3,0,13,5,2,0,40.0,60.0,0.0
+17412,Shoreline,3343,Shorecrest High School,401,73,2,9,4,18,3,120,354,313,5,88.4,10.2,1.4
+17412,Shoreline,3921,Shorewood High School,506,125,1,3,7,10,9,177,454,409,15,90.1,6.6,3.3
+17404,Skykomish,2513,Skykomish High School,11,5,0,0,1,0,1,7,9,7,0,77.8,22.2,0.0
+31201,Snohomish,4265,AIM High School,7,86,0,0,1,6,15,29,64,34,8,53.1,34.4,12.5
+31201,Snohomish,4395,Centennial Middle School,3,0,1,0,0,0,0,2,1,0,0,0.0,100.0,0.0
+31201,Snohomish,5128,Glacier Peak High School,0,356,0,0,2,9,5,59,297,281,0,94.6,5.4,0.0
+31201,Snohomish,3981,High School Re Entry,3,95,0,0,2,6,9,80,18,0,1,0.0,94.4,5.6
+31201,Snohomish,1904,Parent Partnerhip,11,12,0,0,0,0,6,13,10,1,3,10.0,60.0,30.0
+31201,Snohomish,1730,Snohomish Center,4,2,0,0,0,0,0,5,1,0,1,0.0,0.0,100.0
+31201,Snohomish,1704,Snohomish Freshman Campus,779,22,0,10,0,0,0,791,10,0,0,0.0,100.0,0.0
+31201,Snohomish,2428,Snohomish High School,10,824,0,4,2,8,11,432,402,371,6,92.3,6.2,1.5
+17410,Snoqualmie Valley,2850,Mount Si High School,436,66,2,1,2,7,11,155,347,314,10,90.5,6.6,2.9
+17410,Snoqualmie Valley,1502,Two Rivers School,15,39,1,0,2,8,7,26,28,6,4,21.4,64.3,14.3
+13156,Soap Lake,1518,Smokiam Alternative High School,9,62,0,0,0,0,1,29,42,40,1,95.2,2.4,2.4
+13156,Soap Lake,3089,Soap Lake Middle & High School,54,24,0,0,0,0,0,51,27,27,0,100.0,0.0,0.0
+25118,South Bend,2214,South Bend High School,52,5,1,2,0,0,1,20,37,33,0,89.2,10.8,0.0
+18402,South Kitsap,3680,Cedar Heights Jh,309,2,2,0,0,0,0,309,2,0,0,0.0,100.0,0.0
+18402,South Kitsap,3899,Discovery,1,130,0,0,3,10,13,20,111,62,23,55.9,23.4,20.7
+18402,South Kitsap,1718,Explorer Academy,23,44,0,1,2,4,1,44,23,10,5,43.5,34.8,21.7
+18402,South Kitsap,4142,John Sedgwick Junior High,337,5,2,1,0,0,0,339,3,0,0,0.0,100.0,0.0
+18402,South Kitsap,5072,Madrona Heights PreSchool Program,0,7,0,0,0,1,0,6,1,0,0,0.0,100.0,0.0
+18402,South Kitsap,3046,Marcus Whitman Junior High,306,2,1,1,0,0,0,306,2,0,0,0.0,100.0,0.0
+18402,South Kitsap,2272,South Kitsap High School,4,1030,0,7,28,23,27,320,714,619,10,86.7,11.9,1.4
+15206,South Whidbey,1682,Bayview Alternative School,10,33,0,1,5,2,7,13,30,15,0,50.0,50.0,0.0
+15206,South Whidbey,4149,South Whidbey High School,160,28,2,1,1,2,2,53,135,127,0,94.1,5.9,0.0
+15206,South Whidbey,1770,Whidbey Island Academy Shared Sch,4,8,0,0,0,0,0,6,6,6,0,100.0,0.0,0.0
+32081,Spokane,3967,A.C.E,6,19,0,1,3,1,0,20,5,0,0,0.0,100.0,0.0
+32081,Spokane,1533,A-3 Multiagency Adolescent Prog,5,10,0,1,0,0,0,12,3,2,0,66.7,33.3,0.0
+32081,Spokane,1567,Alternative Bancroft School,14,16,0,0,3,0,3,21,9,2,1,22.2,66.7,11.1
+32081,Spokane,1604,Alternative Tamarack School,8,6,0,1,1,0,0,12,2,0,0,0.0,100.0,0.0
+32081,Spokane,3008,Bryant Center,21,25,0,1,0,1,4,37,9,2,1,22.2,66.7,11.1
+32081,Spokane,1603,Daybreak Alternative School,30,68,3,6,10,0,0,76,22,0,3,0.0,86.4,13.6
+32081,Spokane,3819,Excelsior Youth Center School,26,45,2,0,4,0,0,58,13,0,7,0.0,46.2,53.8
+32081,Spokane,3412,Ferris High School,511,137,7,8,14,18,2,269,379,328,2,86.5,12.9,0.5
+32081,Spokane,3411,Havermale High School,91,454,1,6,36,98,47,177,368,167,13,45.4,51.1,3.5
+32081,Spokane,2172,Lewis & Clark High School,627,196,7,9,15,13,8,376,447,388,7,86.8,11.6,1.6
+32081,Spokane,2106,North Central High School,497,196,4,4,13,21,4,372,321,270,5,84.1,14.3,1.6
+32081,Spokane,2479,Rogers High School,637,178,21,17,42,41,16,417,398,253,8,63.6,34.4,2.0
+32081,Spokane,1698,SCCP Images,0,11,0,0,0,0,1,6,5,2,2,40.0,20.0,40.0
+32081,Spokane,3189,Shadle Park High School,457,140,3,2,9,10,5,252,345,313,3,90.7,8.4,0.9
+32081,Spokane,1767,The Healing Lodge,28,34,3,13,2,0,0,42,20,0,2,0.0,90.0,10.0
+22008,Sprague,2186,Sprague High School,15,4,0,0,0,0,0,9,10,10,0,100.0,0.0,0.0
+38322,St. John,3068,St John/Endicott High,37,4,1,0,0,1,0,11,30,28,0,93.3,6.7,0.0
+31401,Stanwood-Camano,1707,Lincoln Hill High School,12,120,0,2,8,18,21,46,86,30,7,34.9,57.0,8.1
+31401,Stanwood-Camano,2581,Stanwood High School,496,83,4,4,3,11,2,210,369,338,7,91.6,6.5,1.9
+27001,Steilacoom Historical,4131,Steilacoom High,235,73,4,5,4,13,1,98,210,183,0,87.1,12.9,0.0
+30303,Stevenson-Carson,5147,Kaplan Academy of Washington,0,171,0,0,9,43,36,67,104,16,0,15.4,84.6,0.0
+30303,Stevenson-Carson,3119,Stevenson High School,113,21,4,4,3,12,8,45,89,56,2,62.9,34.8,2.2
+31311,Sultan,5114,Sky Valley Options,0,43,0,0,0,12,4,18,25,8,1,32.0,64.0,4.0
+31311,Sultan,5152,Sultan Alternative Education School,0,8,0,0,0,1,0,4,4,1,2,25.0,25.0,50.0
+31311,Sultan,4274,Sultan Senior High School,207,39,2,4,1,6,3,114,132,115,1,87.1,12.1,0.8
+27320,Sumner,4585,Bonney Lake High School,373,96,0,2,6,8,4,158,311,283,8,91.0,6.4,2.6
+27320,Sumner,3247,Sumner High School,383,99,2,5,10,4,16,173,309,268,4,86.7,12.0,1.3
+39201,Sunnyside,3313,Harrison Middle School,3,0,1,0,0,0,0,2,1,0,0,0.0,100.0,0.0
+39201,Sunnyside,2959,Sunnyside High School,470,92,23,14,21,36,46,108,454,289,25,63.7,30.8,5.5
+27010,Tacoma,1585,Comm Based Trans Program,0,6,0,0,0,0,0,0,6,6,0,100.0,0.0,0.0
+27010,Tacoma,1797,Day Reporting School,23,77,0,0,3,0,1,95,5,0,1,0.0,80.0,20.0
+27010,Tacoma,3880,Foss,444,172,7,8,5,28,22,355,261,176,15,67.4,26.8,5.7
+27010,Tacoma,1817,Home Based,9,10,0,1,0,0,0,17,2,0,1,0.0,50.0,50.0
+27010,Tacoma,2215,Lincoln,391,187,6,17,10,47,32,312,266,139,15,52.3,42.1,5.6
+27010,Tacoma,3398,Mt Tahoma,461,185,7,15,24,35,23,318,328,215,9,65.5,31.7,2.7
+27010,Tacoma,4109,Oakland High School,14,204,0,4,7,28,26,128,90,10,15,11.1,72.2,16.7
+27010,Tacoma,4281,Park Avenue Center,14,12,0,0,1,0,0,24,2,0,1,0.0,50.0,50.0
+27010,Tacoma,2084,Stadium,412,160,7,8,8,30,12,301,271,202,4,74.5,24.0,1.5
+27010,Tacoma,5183,Tacoma Business Academy,0,21,0,0,0,6,8,4,17,0,3,0.0,82.4,17.6
+27010,Tacoma,1860,Tacoma School of the Arts,0,115,0,0,0,4,3,43,72,65,0,90.3,9.7,0.0
+27010,Tacoma,1816,TCC Fresh Start,19,182,0,7,0,13,74,80,121,3,24,2.5,77.7,19.8
+27010,Tacoma,3246,Wilson,212,102,2,5,1,16,4,182,132,102,2,77.3,21.2,1.5
+14077,Taholah,3580,Taholah High School,16,11,1,0,1,0,0,10,17,15,0,88.2,11.8,0.0
+17409,Tahoma,4317,Maple Valley High School,13,16,0,3,0,0,0,26,3,0,0,0.0,100.0,0.0
+17409,Tahoma,4556,Tahoma Jr High,570,7,0,1,0,0,0,576,1,0,0,0.0,100.0,0.0
+17409,Tahoma,2849,Tahoma Senior High School,2,654,0,3,14,24,16,114,542,479,6,88.4,10.5,1.1
+38265,Tekoa,3418,Tekoa High School,15,7,0,0,0,0,1,11,11,10,0,90.9,9.1,0.0
+34402,Tenino,3509,Tenino High School,96,66,0,0,4,10,4,68,94,64,12,68.1,19.1,12.8
+19400,Thorp,2514,Thorp Elem & Jr Sr High,13,3,0,0,0,0,0,15,1,1,0,100.0,0.0,0.0
+21237,Toledo,5190,Toledo Alternative Options,0,15,0,0,0,2,0,6,9,4,3,44.4,22.2,33.3
+21237,Toledo,2616,Toledo High School,83,30,0,0,0,1,1,62,51,47,2,92.2,3.9,3.9
+24404,Tonasket,2679,Tonasket High School,95,26,2,1,4,4,1,55,66,54,0,81.8,18.2,0.0
+39202,Toppenish,1508,Eagle High School,52,136,2,2,11,20,19,64,124,47,23,37.9,43.5,18.5
+39202,Toppenish,2900,Toppenish High School,259,34,1,2,4,2,3,142,151,131,8,86.8,7.9,5.3
+36300,Touchet,2160,Touchet Elem & High School,22,9,0,0,0,1,0,6,25,24,0,96.0,4.0,0.0
+08130,Toutle Lake,2560,Toutle Lake High School,59,19,0,0,0,2,3,21,57,50,2,87.7,8.8,3.5
+20400,Trout Lake,2676,Trout Lake School,19,3,0,0,0,0,0,10,12,12,0,100.0,0.0,0.0
+17406,Tukwila,2848,Foster Senior High School,238,97,6,5,7,8,9,145,190,145,10,76.3,18.4,5.3
+34033,Tumwater,4500,A G West Black Hills High School,283,65,0,2,1,17,4,138,210,181,5,86.2,11.4,2.4
+34033,Tumwater,5014,New Market High School,1,125,0,0,7,24,16,40,86,18,21,20.9,54.7,24.4
+34033,Tumwater,1713,Secondary Options,0,42,0,0,0,5,5,10,32,16,6,50.0,31.3,18.8
+34033,Tumwater,3362,Tumwater High School,303,72,2,1,1,31,11,108,267,218,3,81.6,17.2,1.1
+27083,University Place,3600,Curtis Senior High,12,594,0,8,7,26,5,187,419,372,1,88.8,11.0,0.2
+06037,Vancouver,3423,Columbia River High,368,77,0,0,2,8,9,139,306,280,7,91.5,6.2,2.3
+06037,Vancouver,1574,Fir Grove Childrens Center,5,8,0,0,0,2,0,11,2,0,0,0.0,100.0,0.0
+06037,Vancouver,2179,Fort Vancouver High School,460,226,2,3,14,27,28,379,307,225,8,73.3,24.1,2.6
+06037,Vancouver,1738,Gate Program,0,10,0,0,0,0,1,6,4,0,3,0.0,25.0,75.0
+06037,Vancouver,3081,Hudson's Bay High School,481,200,2,7,5,20,20,397,284,225,5,79.2,19.0,1.8
+06037,Vancouver,3932,Lewis And Clark High School,91,261,0,8,9,23,26,202,150,71,13,47.3,44.0,8.7
+06037,Vancouver,4504,Skyview High School,484,183,0,4,7,17,9,279,388,347,4,89.4,9.5,1.0
+06037,Vancouver,4524,Vancouver Alternative Programs,7,247,0,2,37,47,33,130,124,0,5,0.0,96.0,4.0
+06037,Vancouver,3556,Vancouver Home Connection,50,19,0,0,0,1,0,66,3,0,2,0.0,33.3,66.7
+06037,Vancouver,1689,Vancouver School of Arts and Academics,84,10,0,0,0,0,0,39,55,55,0,100.0,0.0,0.0
+06037,Vancouver,5149,Vancouver Virtual Learning Academy,0,39,0,0,0,5,8,26,13,0,0,0.0,100.0,0.0
+17402,Vashon Island,1822,Family Link,8,1,0,0,0,0,0,4,5,5,0,100.0,0.0,0.0
+17402,Vashon Island,1938,Student Link,2,10,0,0,1,0,0,4,8,7,0,87.5,12.5,0.0
+17402,Vashon Island,2419,Vashon Island High School,147,14,0,0,2,2,2,30,131,124,1,94.7,4.6,0.8
+34975,WA State Center for Childhood Deafness & Hearing Loss,4246,Washington State School for the Deaf,12,5,0,0,0,0,0,5,12,8,4,66.7,0.0,33.3
+35200,Wahkiakum,3467,Wahkiakum High School,51,14,0,1,1,4,0,21,44,36,2,81.8,13.6,4.5
+13073,Wahluke,1835,Sentinel Tech Alt School,3,29,0,2,2,3,3,12,20,10,0,50.0,50.0,0.0
+13073,Wahluke,4254,Wahluke High School,128,24,1,3,2,4,3,52,100,82,5,82.0,13.0,5.0
+36401,Waitsburg,2386,Waitsburg High School,44,11,0,0,0,0,1,20,35,34,0,97.1,2.9,0.0
+36140,Walla Walla,2407,Alternative Education Program,0,125,0,0,0,5,22,32,93,58,8,62.4,29.0,8.6
+36140,Walla Walla,4071,Lincoln High School,27,150,0,1,2,9,8,111,66,46,0,69.7,30.3,0.0
+36140,Walla Walla,3468,Walla Walla High School,540,104,2,2,0,4,14,281,363,333,8,91.7,6.1,2.2
+39207,Wapato,4022,Pace Alternative High School,58,57,0,5,10,10,14,59,56,10,7,17.9,69.6,12.5
+39207,Wapato,3141,Wapato High School,265,61,0,3,7,17,9,142,184,140,8,76.1,19.6,4.3
+13146,Warden,3273,Warden High School,74,31,1,0,1,4,0,40,65,59,0,90.8,9.2,0.0
+06112,Washougal,1528,Excelsior High School,17,42,0,1,0,6,4,26,33,22,0,66.7,33.3,0.0
+06112,Washougal,3147,Washougal High School,244,80,1,2,3,12,3,120,204,179,4,87.7,10.3,2.0
+06112,Washougal,1899,Washougal Special Services,0,1,0,0,0,0,0,0,1,0,1,0.0,0.0,100.0
+01109,Washtucna,3075,Washtucna Elementary/High School,5,6,0,0,0,0,0,5,6,6,0,100.0,0.0,0.0
+09209,Waterville,2162,Waterville High School,24,7,0,0,0,0,1,12,19,18,0,94.7,5.3,0.0
+33049,Wellpinit,5957,Wellpinit Alliance - Yakama Nation,0,11,0,0,0,0,4,2,9,5,0,55.6,44.4,0.0
+33049,Wellpinit,5217,Wellpinit Alliance -Columbia Basin J.C.,0,22,0,0,0,0,5,4,18,9,4,50.0,27.8,22.2
+33049,Wellpinit,1851,Wellpinit Alliance High School,8,144,0,0,3,46,17,59,93,24,3,25.8,71.0,3.2
+33049,Wellpinit,2550,Wellpinit High School,28,9,2,0,1,0,0,18,19,16,0,84.2,15.8,0.0
+33049,Wellpinit,1911,Wellpinit-Fort Semco High School,3,118,1,4,5,12,18,59,62,14,8,22.6,64.5,12.9
+04246,Wenatchee,1612,Skill Source,1,152,0,0,17,37,57,40,113,0,2,0.0,98.2,1.8
+04246,Wenatchee,1742,Valley Academy Of Learning,9,2,1,1,0,0,0,9,2,0,0,0.0,100.0,0.0
+04246,Wenatchee,2134,Wenatchee High School,572,125,6,4,5,13,6,271,426,389,3,91.3,8.0,0.7
+04246,Wenatchee,1613,Westside High School,13,126,3,1,2,11,18,40,99,42,22,42.4,35.4,22.2
+32363,West Valley (Spokane),1628,CBE Alternative Programs,36,184,5,5,14,20,25,70,150,61,20,40.7,46.0,13.3
+32363,West Valley (Spokane),1838,Spokane Valley High School,18,23,0,0,1,1,0,16,25,23,0,92.0,8.0,0.0
+32363,West Valley (Spokane),1842,Spokane Valley Transition School,31,139,0,3,5,17,18,70,100,50,7,50.0,43.0,7.0
+32363,West Valley (Spokane),3195,West Valley High School,246,76,1,1,2,2,2,113,209,198,3,94.7,3.8,1.4
+39208,West Valley (Yakima),3074,West Valley High School,12,437,4,6,7,17,6,129,320,276,4,86.3,12.5,1.3
+39208,West Valley (Yakima),4040,West Valley Jr High,410,7,0,1,0,0,0,416,1,0,0,0.0,100.0,0.0
+21303,White Pass,2859,White Pass Jr. Sr. High School,54,9,0,1,2,1,1,26,37,31,1,83.8,13.5,2.7
+27416,White River,1544,Collins Alternative Programs,96,202,8,15,9,28,37,121,177,67,13,37.9,54.8,7.3
+27416,White River,4569,White River High School,405,56,0,4,8,5,5,149,312,288,2,92.3,7.1,0.6
+20405,White Salmon Valley,2330,Columbia High School,83,15,1,0,1,1,0,35,63,58,2,92.1,4.8,3.2
+20405,White Salmon Valley,5077,White Salmon Academy,3,19,0,0,1,3,1,6,16,10,1,62.5,31.3,6.3
+22200,Wilbur,3289,Wilbur Secondary School,25,7,1,1,0,0,0,12,20,18,0,90.0,10.0,0.0
+25160,Willapa Valley,2542,Willapa Valley Middle-High,35,3,0,1,0,0,0,9,29,28,0,96.6,3.4,0.0
+13167,Wilson Creek,2473,Wilson Creek High,12,3,0,0,0,0,0,7,8,8,0,100.0,0.0,0.0
+21232,Winlock,1829,Apolo High School,8,48,0,0,1,4,7,28,28,15,1,53.6,42.9,3.6
+21232,Winlock,3597,Winlock Senior High,62,30,0,0,0,2,0,52,40,38,0,95.0,5.0,0.0
+14117,Wishkah Valley,3375,Wishkah Valley Elementary/High School,30,9,0,0,1,1,0,14,25,23,0,92.0,8.0,0.0
+20094,Wishram,2605,Wishram High And Elementary Schl,6,3,0,0,0,1,0,4,5,4,0,80.0,20.0,0.0
+08404,Woodland,1795,TEAM High School,5,47,1,0,4,3,4,17,35,21,2,60.0,34.3,5.7
+08404,Woodland,3546,Woodland High School,188,60,0,0,6,3,2,102,146,133,2,91.1,7.5,1.4
+39007,Yakima,2116,Davis High School,626,167,2,10,7,19,16,396,397,333,10,83.9,13.6,2.5
+39007,Yakima,3206,Eisenhower High School,646,120,1,3,4,21,19,375,391,322,21,82.4,12.3,5.4
+39007,Yakima,4093,Stanton Alternative School,42,329,0,11,28,35,29,222,149,23,23,15.4,69.1,15.4
+39007,Yakima,5153,Yakima Online,0,103,0,0,3,12,13,50,53,24,1,45.3,52.8,1.9
+39007,Yakima,5224,Yakima Satellite Alternative Programs,0,44,0,0,0,0,26,13,31,0,5,0.0,83.9,16.1
+34002,Yelm,5052,Ridgeline Middle School,210,6,0,1,0,0,0,215,1,0,0,0.0,100.0,0.0
+34002,Yelm,1627,Yelm Extension School,16,149,0,2,3,21,23,69,96,32,15,33.3,51.0,15.6
+34002,Yelm,2633,Yelm High School 12,10,561,0,2,3,15,17,242,329,288,4,87.5,11.2,1.2
+39205,Zillah,2240,Zillah High School,109,34,1,0,1,1,1,35,108,104,0,96.3,3.7,0.0

@@ -1,0 +1,409 @@
+﻿HighSchool	AICode	NumberOfTestTakers	SATCriticalReadingMean	SATMathMean	SATWritingMean	SATIINumberOfTestTakers SATIITotalTestsTaken	APNumberOfTestTakers APTotalTestsTaken APNumberOfHighScores	PSATSophomoreNumberOfTestTakers	PSATSophomoreCriticalReadingMean	PSATSophomoreMathMean	PSATSophomoreWritingSkillsMean	PSATJuniorNumberOfTestTakers PSATJuniorCriticalReadingMean	PSATJuniorMathMean	PSATJuniorWritingSkillsMean
+5-12 Learning Community	480589	7	514	503	479	0	0	24	27	5	26	40.7	41.8	36.3	13	49.8	46.7	44.2
+A-1 High School	481351	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+A. C. Davis Senior High School	481601	186	429	436	417	11	27	0	0	-	17	50.9	53.8	47.0	83	48.3	48.7	46.3
+A.G. West/Black Hills High School	480826	78	507	532	493	4	11	153	219	101	23	49.4	50.7	48.6	74	51.8	52.1	48.4
+Academy of Citizenship and Empowerment at Tyee Educ	481159	37	378	404	375	1	3	1	1	-	7	29.4	31.0	33.7	51	31.7	34.4	32.6
+Aces High School	480384	2	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Adna Middle/High School	480015	10	493	528	486	0	0	0	0	-	14	46.4	46.3	43.6	14	46.2	51.4	42.1
+Almira-Coulee-Hartline High School	480020	14	465	440	416	0	0	12	13	2	0	-	-	-	18	40.3	44.1	38.8
+Anacortes High School	480025	86	547	530	516	14	31	132	176	93	54	53.8	54.5	51.0	167	47.7	49.2	45.5
+Arlington High School	480035	132	519	527	499	6	15	102	147	86	33	51.6	49.1	45.8	76	51.8	51.0	47.3
+Arts and Academics Academy	481139	8	485	399	409	0	0	4	4	-	6	31.8	38.2	28.3	53	34.0	37.8	34.8
+Asotin High School	480040	24	488	479	457	0	0	0	0	-	12	43.8	44.8	41.4	16	41.8	44.3	37.8
+Auburn High School	480055	116	517	516	504	9	23	133	197	106	72	46.2	47.9	44.8	68	49.3	49.8	46.0
+Auburn Mountainview High School	480044	143	515	515	493	12	29	203	295	169	32	51.1	54.1	47.3	104	49.9	51.2	46.9
+Auburn Riverside High School	480046	176	491	508	476	5	12	246	369	210	50	48.4	49.8	47.0	117	51.0	53.0	48.8
+Avanti High School	480827	0	-	-	-	0	0	2	2	-	0	-	-	-	0	-	-	-
+Aviation High School	481071	56	562	550	531	9	20	93	155	86	4	-	-	-	88	53.0	55.3	51.4
+B.E.S.T Alternative High School	480542	2	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Bainbridge High School	481580	312	588	590	570	81	200	374	716	570	109	56.0	59.6	53.4	210	57.2	57.7	52.9
+Ballard High School	481045	234	532	545	517	34	78	268	451	293	382	44.2	45.7	42.7	344	47.4	48.9	44.8
+Bancroft Center Community College of Spokane	481290	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Battle Ground High School	480060	130	479	480	448	5	15	120	154	75	21	48.1	51.3	47.2	62	48.7	51.1	46.4
+Bellevue Senior High School	480070	274	557	591	547	113	311	628	1404	864	23	56.3	59.3	54.2	326	50.0	54.8	48.5
+Bellingham High School	480094	108	560	558	544	14	31	193	282	201	53	52.9	53.9	50.3	80	51.3	54.8	50.3
+Bethel High School	481225	124	460	458	448	0	0	77	128	70	62	47.1	49.4	44.8	71	48.7	49.4	46.4
+Bickleton High School	480090	4	-	-	-	0	0	2	4	-	6	36.5	47.8	39.5	10	41.7	51.3	41.5
+Big Picture High School	480134	0	-	-	-	0	0	0	0	-	15	38.1	38.3	35.7	14	39.3	38.5	35.4
+Blaine High School	480095	46	530	527	508	3	10	93	180	82	19	52.6	52.2	46.8	55	53.2	53.7	49.3
+Bonney Lake High School	480111	145	504	510	478	0	0	138	318	140	54	46.8	47.5	44.6	122	46.2	48.9	44.1
+Bothell Senior High School	480100	215	522	554	517	20	50	158	228	163	31	60.1	60.9	57.0	278	50.3	54.5	47.7
+Bremerton High School	480103	94	496	508	477	4	9	75	110	65	111	43.8	42.3	39.7	74	44.5	46.8	40.7
+Brewster High School	480110	24	417	442	402	0	0	10	10	0	0	-	-	-	52	37.1	39.8	37.1
+Bridgeport High School	480115	16	418	418	416	1	3	42	70	14	40	35.3	39.2	35.0	41	36.8	39.9	37.7
+Burlington-Edison High School	480130	88	525	542	508	9	22	101	133	89	63	47.7	49.1	45.2	110	50.3	53.5	47.3
+Cam High School	480056	27	577	563	553	1	3	0	0	-	18	57.7	50.5	57.1	19	60.2	57.1	59.7
+Camas Senior High School	480140	163	515	515	503	15	41	258	414	327	56	51.9	54.8	49.0	132	52.5	54.6	49.4
+Capital High School	480829	178	551	553	528	24	62	1	1	-	72	54.2	54.6	49.1	140	53.9	55.3	50.4
+Cascade High School	480605	49	494	504	476	3	7	5	7	4	4	-	-	-	17	56.2	54.9	52.9
+Cascade Senior High School	480383	150	497	518	483	10	26	211	272	136	33	46.5	49.8	43.8	89	49.5	51.6	46.7
+Cashmere High School	480155	49	499	515	498	1	3	0	0	-	5	39.0	44.6	37.8	32	47.6	50.9	44.5
+Castle Rock High School	480160	30	500	491	470	2	5	56	67	12	18	45.6	47.9	43.0	29	45.6	48.4	44.1
+Cedarcrest High School	480145	111	527	551	503	9	24	43	50	32	30	52.2	54.2	47.5	92	52.6	52.4	48.6
+Center School	481060	33	536	484	508	2	5	15	20	12	59	47.3	44.1	44.1	54	52.5	48.6	47.9
+Central Kitsap Alternative High School	481194	1	-	-	-	2	4	0	0	-	0	-	-	-	0	-	-	-
+Central Kitsap High School	481195	233	538	557	509	35	88	428	968	750	118	49.5	53.4	46.1	185	52.4	55.6	49.6
+Central Valley High School	481483	154	522	537	509	8	20	177	352	256	61	55.8	55.8	52.8	154	51.5	52.8	47.3
+Centralia High School	480170	49	523	532	498	3	6	26	36	14	9	52.7	52.0	51.2	15	48.8	50.9	48.7
+Challenger High School	481224	3	-	-	-	1	2	0	0	-	0	-	-	-	0	-	-	-
+Charles A. Lindbergh High School	480985	92	502	524	481	6	16	120	146	105	20	52.0	54.5	50.0	54	48.3	50.1	45.2
+Charles F Adams High School	480205	49	512	516	486	0	0	17	23	10	11	51.3	55.9	43.7	23	48.2	54.3	44.4
+Chelan High School	480180	48	497	525	476	1	2	21	25	9	8	50.3	54.5	45.6	35	47.7	52.0	44.9
+Cheney High School	480185	89	529	551	499	2	6	77	108	64	83	47.2	50.7	43.9	90	48.4	51.8	45.6
+Chief Sealth High School	481161	73	462	466	436	11	23	0	0	-	177	38.4	40.4	37.0	149	42.4	43.9	39.9
+Chimacum High School	480195	33	508	477	482	0	0	21	31	21	9	49.8	43.1	43.8	27	53.6	55.2	51.7
+Choice High School	480722	0	-	-	-	0	0	0	0	-	0	-	-	-	1	-	-	-
+Clallam Bay High School	480200	3	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Cle Elum-Roslyn High School	480210	21	474	467	471	0	0	0	0	-	6	48.7	40.0	40.7	26	42.3	45.3	41.2
+Cleveland High School	481055	60	389	395	378	1	2	21	36	3	185	32.2	35.8	32.0	91	33.3	37.5	34.3
+Clover Park High School	481370	82	443	449	428	3	6	100	148	20	255	36.7	38.6	34.9	30	41.9	42.5	40.1
+Colfax High School	480215	32	509	501	509	1	4	9	9	3	17	49.1	50.4	44.6	45	47.1	49.7	44.4
+Collins High School	480123	2	-	-	-	0	0	0	0	-	0	-	-	-	1	-	-	-
+Colton High School	480225	14	462	482	432	0	0	1	1	-	15	41.3	43.5	40.5	15	50.0	52.9	46.9
+Columbia Basin Alternative High School	480737	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Columbia High School	480128	13	480	459	472	0	0	2	2	-	7	48.1	48.9	48.0	8	42.8	49.1	42.5
+Columbia High School	480480	6	452	458	423	0	0	0	0	-	0	-	-	-	15	43.7	47.5	40.2
+Columbia High School	481540	30	515	502	487	0	0	26	34	17	38	47.1	51.3	45.6	36	49.8	50.9	45.5
+Columbia River High School	481460	175	544	554	530	20	48	29	37	22	70	51.5	53.3	49.5	128	52.7	53.5	50.1
+Colville High School	480235	77	518	516	480	1	2	0	0	-	5	51.4	52.2	50.0	19	54.3	56.3	50.6
+Concrete High School	480240	16	503	523	488	0	0	0	0	-	1	-	-	-	11	49.4	50.4	41.5
+Connell High School	480245	42	442	474	444	1	2	30	49	20	16	41.6	44.6	40.9	53	42.9	47.2	39.2
+Contract Based Education	481236	3	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Coupeville High School	480260	34	522	531	506	3	8	4	4	-	23	45.6	49.3	43.6	48	50.6	52.5	46.9
+Crescent High School	480505	4	-	-	-	0	0	1	1	-	0	-	-	-	1	-	-	-
+Creston High School	480270	2	-	-	-	0	0	0	0	-	3	-	-	-	11	44.1	45.0	41.2
+Curlew High School	480275	6	555	518	545	1	2	17	19	9	11	46.3	40.9	40.7	13	50.9	46.6	47.3
+Curtis Senior High School	481382	206	537	544	527	34	94	203	391	272	54	50.9	53.1	47.8	77	53.3	53.3	49.5
+Cusick High School	480280	10	523	502	512	0	0	20	28	6	5	47.2	52.0	49.6	6	50.3	49.3	45.3
+Darrington High School	480285	3	-	-	-	0	0	7	13	5	10	52.1	52.7	44.6	7	46.9	47.6	44.3
+Davenport High School	480290	17	486	495	482	4	10	26	37	6	0	-	-	-	0	-	-	-
+Dayton High School	480295	30	495	485	474	4	12	20	32	1	38	39.9	41.9	37.5	28	42.3	42.9	40.0
+Decatur High School	480395	130	505	516	486	13	35	227	342	109	280	40.5	43.2	38.9	110	46.9	51.2	46.7
+Deer Park High School	480300	58	491	501	465	1	3	0	0	-	33	50.1	52.5	45.8	109	42.7	46.6	39.0
+Dwight D. Eisenhower High School	481603	126	499	500	482	6	15	88	155	69	0	-	-	-	52	49.7	50.2	47.1
+E B Walker High School	480936	4	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Eagle Harbor High School	480096	11	603	555	558	2	5	18	30	23	5	57.4	50.8	48.4	9	59.1	57.1	57.8
+East Valley High School	480760	62	469	470	455	0	0	14	14	1	47	39.2	40.0	38.6	55	45.9	46.4	42.5
+East Valley High School	481238	80	506	524	484	1	3	99	153	45	38	49.4	49.3	47.5	27	45.9	48.0	44.9
+Eastlake High School	480548	312	547	557	547	44	113	281	461	343	13	54.4	58.5	52.1	329	51.1	53.1	49.5
+Eastmont High School	480332	131	487	499	473	1	1	86	133	76	94	43.0	47.4	39.7	113	47.7	49.7	45.0
+Easton High School	480315	2	-	-	-	0	0	0	0	-	6	35.5	42.3	38.7	0	-	-	-
+Eatonville High School	480335	61	506	500	481	1	3	32	40	5	15	49.7	45.9	45.8	41	48.7	50.6	45.5
+Edmonds Cyber School	480657	11	549	504	536	0	0	0	0	-	8	50.1	46.6	50.1	7	53.0	53.1	51.9
+Edmonds-Woodway High School	480344	229	550	553	539	40	101	76	81	59	89	53.1	57.8	50.9	200	52.3	54.0	49.6
+Ellensburg High School	480350	68	542	549	517	4	11	57	79	54	13	52.2	52.2	48.6	68	51.2	54.0	49.8
+Elma High School	480355	35	483	500	441	1	3	11	11	1	11	46.3	48.6	41.5	16	49.3	50.4	46.1
+Emerald Ridge High School	481222	190	514	509	495	14	38	349	555	255	67	44.2	46.1	40.9	138	50.3	50.6	47.2
+Enrichment Cooperative	481294	8	571	495	505	0	0	0	0	-	0	-	-	-	1	-	-	-
+Entiat High School	480370	11	513	479	488	0	0	0	0	-	12	41.3	41.9	38.8	18	41.4	42.2	36.5
+Enumclaw High School	480375	160	503	493	472	5	10	188	260	91	4	-	-	-	107	49.6	50.1	45.4
+Ephrata Senior High School	480380	43	488	502	472	0	0	1	1	-	20	49.5	51.5	46.6	43	45.5	48.7	44.0
+Everett Alternative High School	480390	3	-	-	-	0	0	0	0	-	0	-	-	-	4	-	-	-
+Everett High School	480385	115	515	528	499	9	23	56	78	33	45	44.8	46.0	39.8	69	51.2	53.2	48.1
+Evergreen High School	481066	41	430	458	417	0	0	0	0	-	0	-	-	-	0	-	-	-
+Evergreen High School	481465	88	513	506	487	7	18	165	276	139	12	47.7	52.0	44.8	20	55.3	53.9	50.7
+Explorations High School	480086	0	-	-	-	0	0	1	3	-	3	-	-	-	9	52.2	52.1	49.9
+Family Learning Center	480982	13	625	598	591	3	8	0	0	-	0	-	-	-	1	-	-	-
+Federal Way High School	480397	128	474	465	458	10	24	196	294	50	259	38.6	42.2	38.1	53	48.8	49.6	47.4
+Federal Way Public Academy	480406	3	-	-	-	0	0	0	0	-	17	55.1	54.9	49.5	1	-	-	-
+Ferndale High School	480400	123	522	530	494	10	23	101	182	117	62	51.7	53.7	48.9	112	51.7	54.4	49.1
+Fife Senior High School	481375	85	503	507	487	6	15	38	43	24	7	51.1	51.7	47.0	51	50.0	51.8	47.3
+Forks High School	480405	15	515	507	482	0	0	5	5	2	6	42.3	44.8	41.8	3	-	-	-
+Fort Vancouver High School	481470	77	451	452	429	2	6	48	68	27	14	42.9	42.1	39.6	80	42.4	44.6	40.5
+Foster High School	481075	73	437	458	437	3	8	45	61	9	165	33.5	36.0	33.6	156	36.9	40.7	36.3
+Franklin High School	481080	143	446	471	422	14	34	76	90	25	273	34.3	37.8	34.7	260	38.4	42.0	38.3
+Franklin Pierce High School	481380	63	482	486	457	5	16	76	122	60	21	43.7	48.0	40.6	52	46.4	48.1	43.6
+Freeman High School	480408	40	515	519	490	2	6	47	71	48	8	54.8	48.1	47.1	23	49.9	48.7	45.4
+Friday Harbor High School	480410	35	521	528	510	7	11	108	173	126	72	46.4	49.9	43.3	62	50.8	52.7	47.1
+Garfield High School	481115	289	573	572	554	116	298	541	900	672	419	48.8	50.9	46.8	360	51.8	53.2	49.7
+Garfield-Palouse High School	480870	26	467	478	459	1	3	0	0	-	15	52.9	51.5	50.8	29	47.0	48.8	45.8
+Gates High School	481381	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Gig Harbor High School	480421	232	540	532	520	28	73	245	416	228	21	56.1	53.3	51.6	116	52.4	52.5	49.1
+Glacier Peak High School	481211	0	-	-	-	0	0	35	49	33	43	49.9	52.8	47.4	124	50.1	55.0	47.6
+Glenwood High School	480425	2	-	-	-	0	0	0	0	-	2	-	-	-	6	41.2	44.5	42.3
+Global Connections High School at Tyee Educational Com	481037	18	443	448	437	0	0	69	92	7	15	38.7	44.5	39.0	58	35.9	38.7	35.8
+Goldendale High School	480430	22	512	525	492	0	0	1	1	-	0	-	-	-	31	45.0	48.5	42.6
+Governor J. R. Rogers High School	480938	232	507	512	492	19	56	203	345	218	45	49.7	50.4	46.1	151	47.9	49.1	45.5
+Graham-Kapowsin High School	480442	108	493	484	471	5	12	353	472	116	94	46.1	47.2	43.9	145	47.1	48.9	45.0
+Grandview High School	480440	53	436	456	430	0	0	124	171	25	10	47.2	45.0	40.0	44	42.5	44.8	40.8
+Granger High School	480445	16	441	457	438	0	0	14	14	0	0	-	-	-	86	32.7	35.4	34.0
+Granite Falls High School	480450	34	527	524	500	0	0	46	46	22	10	57.1	55.0	50.1	34	50.8	49.7	48.4
+Hanford High School	481002	185	541	559	513	28	77	223	415	280	35	56.1	62.1	55.8	141	53.5	56.2	50.5
+Harbor High School	480001	2	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Harrington High School	480460	1	-	-	-	0	0	1	1	-	10	46.2	48.7	47.5	4	-	-	-
+Harry S Truman High School	480394	5	404	380	380	0	0	1	1	-	21	35.5	34.2	34.7	19	38.5	39.0	36.9
+Havermale High School	481240	3	-	-	-	0	0	0	0	-	6	44.8	41.3	39.3	62	36.1	36.4	33.6
+Hayes Freedom High School	480146	3	-	-	-	1	3	0	0	-	0	-	-	-	0	-	-	-
+Health Science and Human Services School	481149	19	428	479	439	1	3	15	28	5	14	40.6	42.6	38.4	60	39.5	43.1	37.8
+Henderson B High School	480422	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Henry Foss High School	481383	135	481	471	457	14	40	22	22	4	36	46.6	46.2	43.6	72	45.0	47.1	44.0
+Henry M. Jackson High School	480711	257	516	538	509	36	86	284	384	271	109	50.9	50.6	47.9	161	49.8	53.7	49.2
+Heritage High School	481492	128	480	495	473	5	14	183	255	95	22	45.2	51.1	43.0	93	44.5	46.5	42.5
+High Praise Education	480626	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+High School Options	480088	0	-	-	-	0	0	0	0	-	2	-	-	-	3	-	-	-
+Highland High School	480265	30	440	475	439	0	0	1	3	-	5	42.8	47.2	41.2	14	42.2	48.3	38.6
+Highline CHOICE Academy	480133	0	-	-	-	0	0	0	0	-	3	-	-	-	3	-	-	-
+Highline High School	481090	108	477	474	455	1	2	98	132	33	2	-	-	-	223	38.9	41.3	37.6
+Hillside Student Community	480697	1	-	-	-	1	3	0	0	-	1	-	-	-	3	-	-	-
+Hockinson High School	480118	96	546	549	529	8	21	76	155	97	31	51.2	53.3	50.1	58	50.1	53.0	46.8
+Home Link High School Diploma Program	480127	7	663	521	629	2	4	0	0	-	3	-	-	-	2	-	-	-
+Home School Networks	480098	17	553	537	495	1	3	0	0	-	0	-	-	-	3	-	-	-
+HomeConnection (Oak Harbor)	480808	1	-	-	-	0	0	4	4	-	15	49.1	48.1	47.0	1	-	-	-
+Homeschool Resource Center	481103	9	604	577	554	1	1	0	0	-	0	-	-	-	0	-	-	-
+Hoquiam High School	480475	26	513	529	496	1	2	70	96	15	38	43.9	45.1	41.8	57	45.5	45.5	41.9
+Hudson's Bay High School	481475	61	503	491	501	2	4	37	61	26	26	46.8	47.7	45.2	43	51.0	50.6	47.0
+Ilwaco High School	480485	30	469	498	449	0	0	33	49	7	55	43.6	45.0	41.3	39	41.5	44.0	39.6
+Inchelium School	480490	0	-	-	-	0	0	12	12	0	12	30.8	39.3	31.3	10	34.2	41.7	31.0
+Indian Heritage Middle College High School	481111	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Inglemoor High School	480101	373	558	589	543	61	146	87	90	30	15	56.7	59.9	51.8	379	53.9	56.9	50.4
+Ingraham High School	481112	131	530	534	510	24	62	2	2	-	192	40.1	42.7	38.5	185	42.3	44.6	41.2
+Insight School of Washington	480129	28	515	466	481	1	2	0	0	-	0	-	-	-	7	58.0	54.7	51.7
+Interagency Academy	481089	1	-	-	-	0	0	0	0	-	24	32.8	33.0	31.6	35	34.8	35.9	33.7
+Interlake High School	480069	138	546	551	532	31	81	508	958	692	89	53.3	53.5	50.5	251	51.9	53.7	49.8
+International Community School	480552	48	653	655	656	32	74	99	253	222	34	59.8	60.5	55.5	46	64.1	65.2	61.0
+International School	480068	63	624	640	610	22	51	193	408	287	52	57.1	57.9	55.7	60	58.6	61.0	56.5
+Issaquah High School	480500	326	555	580	545	64	153	328	623	519	13	57.2	57.2	52.7	271	55.1	57.0	53.1
+Jenkins High School	480190	46	498	508	458	1	2	46	70	29	2	-	-	-	31	51.2	50.1	46.8
+Joel E. Ferris High School	481258	200	533	538	513	14	36	243	469	280	79	50.5	50.9	47.2	260	46.9	48.7	44.2
+John R. Rogers High School	481260	55	483	469	446	1	2	137	268	48	289	36.9	39.7	34.3	164	41.0	43.4	37.5
+Juanita High School	480543	185	558	579	546	28	77	216	431	312	116	51.1	55.3	50.1	168	53.1	56.6	50.6
+Kahlotus High School	480510	3	-	-	-	0	0	0	0	-	4	-	-	-	7	50.3	51.3	46.9
+Kalama Senior High School	480515	27	509	510	470	0	0	4	4	-	18	45.5	46.4	41.3	21	48.4	53.2	46.5
+Kamiak High School	480758	302	556	594	547	61	173	408	798	630	63	53.6	56.9	51.4	252	53.5	56.1	51.6
+Kamiakin High School	480524	149	522	552	506	8	24	265	495	342	394	41.1	45.0	39.8	386	45.8	48.8	43.5
+Kelso High School	480520	89	524	503	513	5	16	73	107	81	20	48.5	50.9	46.5	40	49.9	50.4	47.0
+Kennewick High School	480525	134	487	505	474	4	9	0	0	-	33	49.6	53.4	49.7	83	47.8	51.0	45.2
+Kent Mountain View Academy	480309	7	597	534	539	0	0	0	0	-	0	-	-	-	1	-	-	-
+Kent Phoenix Academy	480528	5	432	414	400	0	0	0	0	-	2	-	-	-	3	-	-	-
+Kent-Meridian High School	480535	84	475	505	454	4	10	2	3	-	38	47.1	53.1	43.1	57	45.9	49.2	43.3
+Kentlake High School	480549	185	522	547	506	3	9	113	171	122	39	51.1	53.2	47.0	137	50.4	54.5	47.6
+Kentridge Senior High School	480536	299	545	581	524	43	104	315	464	358	21	49.6	53.1	44.0	247	50.5	54.6	47.5
+Kentwood Senior High School	480539	262	510	526	495	19	47	288	485	364	43	50.3	53.8	46.5	123	52.6	55.6	48.9
+Kettle Falls High School	480540	26	459	485	437	0	0	0	0	-	62	39.4	43.6	36.3	21	46.5	49.0	42.7
+Kingston High School	480554	86	521	514	489	10	28	139	210	110	16	50.4	53.3	44.5	75	50.3	51.2	47.3
+Kiona-Benton High School	480085	21	519	531	476	2	6	10	10	2	1	-	-	-	11	43.2	45.5	40.7
+Kittitas High School	480550	11	545	521	513	0	0	0	0	-	45	40.6	45.6	38.7	0	-	-	-
+Klahowya Secondary School	481196	63	534	537	507	6	13	102	161	79	22	48.8	51.2	46.9	70	48.8	50.7	45.9
+Klickitat High School	480560	1	-	-	-	0	0	0	0	-	8	35.0	40.4	34.9	11	42.6	47.5	39.9
+La Center High School	480565	51	517	510	490	0	0	33	49	30	50	44.3	46.4	42.4	29	49.7	51.0	45.7
+La Conner High School	480575	26	469	463	453	0	0	1	1	-	13	44.5	47.8	40.5	26	51.7	55.8	48.5
+La Crosse High School	480580	8	470	501	470	0	0	12	17	3	4	-	-	-	2	-	-	-
+Lake Quinault High School	480022	7	454	459	489	0	0	0	0	-	4	-	-	-	11	39.9	42.1	36.9
+Lake Roosevelt High School	480255	14	466	473	438	1	3	0	0	-	0	-	-	-	19	40.6	44.3	38.3
+Lake Stevens High School	480585	200	525	523	507	17	41	252	344	206	39	52.1	55.0	48.4	146	51.4	52.9	49.0
+Lake Washington High School	480545	254	545	554	528	39	95	207	395	279	34	52.9	56.1	52.0	134	53.7	55.2	51.8
+Lakes High School	480588	146	480	476	445	10	23	156	297	109	329	38.7	40.6	36.0	79	48.5	52.2	46.7
+Lakeside High School	480798	61	472	485	450	2	5	33	38	12	11	48.5	57.0	49.7	91	47.8	50.0	43.7
+Lakewood High School	480586	50	541	554	510	0	0	0	0	-	10	44.9	50.6	46.5	38	50.4	52.9	48.1
+Legacy High School	481491	0	-	-	-	0	0	0	0	-	0	-	-	-	2	-	-	-
+Lewis and Clark High School	481265	273	552	541	535	34	88	344	729	504	101	52.6	53.6	48.6	365	50.0	49.5	47.8
+Lewis and Clark High School	481478	7	440	437	426	0	0	0	0	-	0	-	-	-	0	-	-	-
+Liberty Bell High School	481445	26	496	534	480	1	2	16	20	18	23	48.6	50.0	45.9	26	49.4	52.1	47.2
+Liberty High School	480502	177	552	555	532	14	34	159	264	218	11	55.4	61.4	54.5	164	52.5	54.3	48.8
+Liberty High School	481230	8	439	501	459	0	0	6	8	3	16	45.4	51.8	42.4	14	47.1	50.6	42.1
+Lincoln High School	481385	90	420	426	411	2	6	27	30	5	10	41.9	44.1	36.6	70	36.5	40.0	35.2
+Lind High School	480620	4	-	-	-	0	0	0	0	-	4	-	-	-	16	36.8	44.2	35.0
+Lopez High School	480630	8	520	483	481	0	0	8	12	11	13	53.0	53.7	50.9	15	50.1	50.7	45.8
+Lyle High School	480635	9	468	516	449	0	0	0	0	-	2	-	-	-	8	45.4	51.0	41.1
+Lynden High School	480647	70	532	546	510	0	0	24	32	24	32	50.1	54.4	46.4	44	48.2	51.5	45.8
+Lynnwood High School	480649	105	504	532	488	9	22	145	187	94	19	48.7	50.9	44.6	89	47.4	51.3	44.8
+Mabton High School	480650	39	391	421	386	0	0	39	39	0	0	-	-	-	67	33.4	41.1	34.2
+Mansfield High School	480655	2	-	-	-	0	0	5	6	3	0	-	-	-	0	-	-	-
+Manson High School	480660	19	381	446	411	0	0	19	19	4	35	34.5	41.3	35.3	40	38.1	43.3	37.3
+Mariner High School	480387	162	472	487	462	8	26	159	256	88	15	45.7	46.7	42.7	92	44.8	45.5	42.4
+Mark Morris High School	480623	104	515	529	492	6	12	30	44	20	1	-	-	-	68	48.4	51.3	45.5
+Mary M. Knight High School	480360	5	484	474	424	0	0	0	0	-	2	-	-	-	4	-	-	-
+Mary Walker High School	481310	20	500	471	453	0	0	27	39	8	34	35.7	41.7	34.0	28	46.1	44.6	44.5
+Marysville Arts & Technology High School	480684	5	540	456	474	0	0	0	0	-	93	41.1	41.1	38.2	71	44.7	45.5	41.5
+Marysville Mountain View High School	480674	0	-	-	-	0	0	0	0	-	28	34.3	34.5	32.2	5	42.0	40.4	38.4
+Marysville-Pilchuck High School	480682	169	501	499	485	9	21	112	161	71	542	39.4	40.5	37.5	273	46.3	46.4	43.3
+Mead Education Partnership Prg	480686	5	500	488	472	0	0	0	0	-	0	-	-	-	0	-	-	-
+Mead Senior High School	480685	251	522	529	494	6	18	235	465	310	73	51.2	54.7	48.8	280	48.2	52.5	45.6
+Meadowdale Senior High School	480342	205	533	538	515	19	49	244	365	226	24	47.3	53.1	46.8	127	50.6	52.6	48.1
+Medical Lake High School	480690	69	483	486	462	4	10	93	134	41	32	47.0	48.1	44.5	31	46.1	47.5	43.8
+Mercer Island High School	480698	308	596	630	586	125	305	319	569	464	26	51.2	58.9	50.2	229	57.5	59.8	54.3
+Meridian High School	480080	34	548	522	521	3	7	66	92	56	10	46.5	49.5	42.6	42	49.7	52.4	47.8
+Middle College High School	481126	7	510	421	483	0	0	0	0	-	3	-	-	-	42	37.9	37.4	36.4
+Monroe High School	480725	137	530	517	511	6	16	39	78	59	23	49.3	51.9	48.7	67	51.7	54.0	49.0
+Montesano Junior-Senior High School	480730	33	514	525	501	0	0	18	27	16	9	53.9	51.9	50.3	24	47.1	53.5	47.0
+Morton Junior-Senior High School	480735	4	-	-	-	0	0	0	0	-	7	45.3	45.0	43.6	8	48.9	48.3	45.9
+Moses Lake Senior High School	480740	93	494	513	460	4	12	137	228	129	47	46.8	52.1	43.7	116	46.4	50.9	43.8
+Mossyrock High School	480745	14	482	491	479	0	0	0	0	-	0	-	-	-	32	49.5	49.8	45.8
+Mount Baker Senior High School	480305	58	532	511	515	2	6	5	5	3	95	44.8	49.1	41.8	80	45.5	51.6	45.1
+Mount Rainier High School	480538	130	533	534	512	18	40	2	2	-	29	46.9	52.0	44.9	208	44.5	47.3	42.4
+Mount Si High School	480797	174	550	535	525	18	44	191	266	195	87	50.1	49.7	46.0	151	53.5	54.8	50.3
+Mount Spokane High School	480687	121	515	537	511	5	11	201	393	230	138	47.8	51.2	45.4	155	49.5	52.0	47.6
+Mount Tahoma High School	481388	131	467	467	444	6	16	147	219	65	27	47.6	49.6	43.3	83	43.9	43.3	41.1
+Mount Vernon High School	480750	134	513	514	492	13	29	105	189	119	14	49.5	54.0	46.1	141	47.5	48.7	44.8
+Mountain View High School	481477	172	555	566	537	31	81	308	649	560	54	52.7	55.6	49.7	74	57.9	60.6	55.8
+Mountlake Terrace High School	480343	160	499	507	481	6	12	219	331	121	6	54.0	52.7	53.0	191	47.3	51.8	45.4
+Naches Valley High School	480770	37	499	499	495	0	0	0	0	-	14	52.5	50.0	46.4	33	47.6	47.6	45.1
+Napavine Junior-Senior High School	480775	14	470	514	455	2	6	0	0	-	5	42.0	52.6	42.0	9	44.6	49.2	41.9
+Naselle-Grays River Valley High School	480780	9	493	542	488	0	0	4	4	-	24	44.3	47.1	44.0	14	47.9	53.7	48.4
+Nathan Hale High School	481128	166	558	553	536	28	64	140	223	135	252	46.3	48.2	43.8	217	50.5	51.1	48.7
+Neah Bay High School	480785	11	449	483	447	0	0	0	0	-	13	41.7	42.3	37.7	16	39.4	44.4	37.8
+New Horizons Alternative High School	480877	10	367	324	326	1	1	0	0	-	0	-	-	-	0	-	-	-
+New Market Skills Center	481442	7	573	540	494	0	0	27	29	14	0	-	-	-	2	-	-	-
+New Start at Salmon Creek Program	481147	0	-	-	-	0	0	0	0	-	12	31.0	34.1	30.0	7	34.3	38.7	31.7
+Newport High School	480071	323	583	606	569	109	282	807	1964	1448	155	54.0	55.9	51.8	411	53.1	56.7	50.6
+Newport High School	480795	23	514	527	496	1	2	24	30	14	13	50.0	52.6	48.6	22	46.6	51.1	45.6
+Nooksack Valley High School	480796	38	514	506	477	1	2	31	39	18	13	43.4	49.5	42.5	37	46.1	48.2	44.4
+North Beach High School	480715	14	499	494	455	0	0	18	18	0	13	41.6	43.2	35.5	18	43.6	47.3	40.2
+North Central High School	481275	139	498	491	478	6	20	310	622	239	286	41.0	43.1	38.6	169	44.9	47.8	42.3
+North Kitsap High School	480920	141	535	533	506	8	21	177	268	187	37	50.3	53.1	46.9	123	51.8	53.8	47.3
+North Mason High School	480063	69	514	505	496	6	14	52	60	19	4	-	-	-	39	46.6	47.3	44.2
+North River High School	480120	2	-	-	-	0	0	0	0	-	4	-	-	-	1	-	-	-
+North Thurston High School	480570	122	502	522	486	12	28	151	214	123	18	52.6	53.4	47.9	91	52.1	53.4	48.9
+Northport High School	480800	2	-	-	-	0	0	22	23	3	11	37.0	42.5	33.7	6	43.7	47.7	35.7
+Nova Project	481129	24	613	535	567	5	10	3	3	-	41	53.0	47.0	48.9	58	53.6	47.4	50.2
+Oak Harbor High School	480810	150	511	514	481	5	14	143	217	95	20	51.1	50.8	47.0	134	48.2	49.7	45.0
+Oakesdale High School	480805	4	-	-	-	0	0	1	1	-	8	49.4	53.8	48.4	1	-	-	-
+Oakland Alternative High School	481392	0	-	-	-	0	0	1	2	-	0	-	-	-	0	-	-	-
+Oakville High School	480815	1	-	-	-	0	0	0	0	-	0	-	-	-	3	-	-	-
+Ocosta Junior-Senior High School	481537	11	501	548	475	0	0	20	20	7	11	44.2	50.6	41.6	15	48.3	55.7	43.8
+Odessa High School	480820	13	508	540	497	0	0	0	0	-	10	43.6	49.2	43.8	0	-	-	-
+Odyssey Essential School at Tyee Educational Complex	481036	16	375	389	367	0	0	0	0	-	11	38.1	39.6	32.3	44	33.1	35.9	32.2
+Okanogan High School	480825	27	436	433	421	0	0	3	3	-	1	-	-	-	24	45.6	48.5	45.3
+Oliver M. Hazen High School	480987	147	520	542	495	11	27	107	202	129	32	48.2	53.4	46.1	93	50.4	54.0	47.6
+Olympia High School	480835	285	565	576	537	72	183	336	583	458	57	58.1	57.7	54.4	209	56.3	56.6	52.7
+Olympia Regional Learning Academy	480838	3	-	-	-	0	0	1	4	-	0	-	-	-	0	-	-	-
+Olympic High School	481197	114	522	528	485	6	14	121	194	132	54	46.9	51.6	43.3	101	48.1	52.1	44.9
+Omak Senior High School	480840	47	470	455	433	0	0	14	14	3	15	45.0	46.1	40.3	25	49.8	51.0	48.0
+Onalaska High School	480845	9	504	492	457	2	5	7	10	1	0	-	-	-	15	48.5	48.1	42.9
+Orcas Island High School	480320	24	596	546	569	7	17	39	48	30	0	-	-	-	26	51.5	54.2	49.5
+Oroville High School	480850	22	462	497	465	2	6	0	0	-	42	41.2	42.5	37.4	3	-	-	-
+Orting High School	480855	27	500	491	477	4	11	34	41	11	7	52.0	56.1	47.1	30	49.8	49.7	47.3
+Othello High School	480860	52	452	476	440	1	3	37	46	15	24	41.1	44.3	40.9	56	37.4	41.1	37.0
+Pasco High School	480875	150	457	471	451	3	9	504	800	220	48	41.2	43.0	39.6	54	45.2	46.9	42.3
+Pateros High School	480880	11	442	408	427	0	0	0	0	-	24	40.2	47.2	36.9	14	49.4	50.1	46.9
+Pe Ell High School	480885	10	519	505	526	0	0	1	1	-	7	45.0	47.4	41.4	5	49.0	52.8	45.0
+Peninsula High School	480420	148	533	520	501	17	39	264	453	248	127	45.1	45.1	42.5	129	49.5	49.6	46.1
+Pomeroy High School	480895	20	514	522	478	0	0	0	0	-	6	46.0	47.5	43.5	9	53.7	55.4	46.6
+Port Angeles High School	480900	97	554	540	522	8	18	74	92	66	22	50.3	52.0	48.1	68	55.6	56.1	52.0
+Port Townsend High School	480915	79	548	526	537	7	16	35	35	21	6	52.3	55.5	49.8	32	55.5	56.3	54.6
+Prairie High School	481476	123	528	541	495	8	20	62	89	70	11	48.0	50.9	46.0	58	51.1	54.2	47.2
+Prescott High School	480925	5	586	490	538	0	0	0	0	-	13	38.7	41.5	32.8	16	35.4	41.0	34.3
+Prosser Senior High School	480930	80	465	480	459	1	1	68	85	50	71	46.2	49.4	43.1	81	44.4	49.8	42.8
+Pullman High School	480935	102	583	604	554	21	51	96	169	119	64	53.3	58.0	50.5	100	54.2	57.3	52.6
+Puyallup Senior High School	480940	228	493	497	476	12	31	107	163	109	13	46.8	49.8	43.8	103	49.8	52.7	47.3
+Quilcene High School	480945	9	502	486	464	0	0	0	0	-	2	-	-	-	6	48.5	46.8	47.0
+Quincy High School	480955	26	454	506	434	1	3	6	7	0	5	41.2	48.8	44.4	52	42.0	44.9	39.8
+Rainier Beach High School	481137	55	398	419	371	1	3	39	53	6	57	28.7	31.5	30.5	76	34.4	37.4	34.1
+Rainier High School	480960	27	495	471	481	0	0	22	59	24	8	45.1	42.8	44.1	26	49.0	49.1	46.3
+Raymond High School	480970	8	469	484	488	1	3	1	1	-	33	38.5	37.3	36.5	0	-	-	-
+Reardan High School	480975	12	477	486	488	1	3	1	1	-	4	-	-	-	23	49.7	50.1	42.4
+Redmond High School	480978	324	566	590	561	72	188	407	851	715	216	53.5	55.9	50.5	277	54.1	56.8	52.2
+Renaissance High School	480107	2	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Renton High School	480990	104	442	448	431	2	4	52	76	29	13	49.1	53.8	46.5	30	43.4	45.2	41.1
+Republic High School	480995	14	491	499	519	0	0	6	6	1	27	41.2	43.4	40.3	1	-	-	-
+Richland High School	481000	203	541	563	520	13	42	202	303	232	97	51.4	55.4	48.7	124	52.0	54.8	48.7
+Ridgefield High School	481005	75	531	530	510	3	9	62	90	28	22	48.3	47.5	41.9	43	48.4	49.0	44.1
+Ritzville High School	481010	18	505	509	463	0	0	0	0	-	0	-	-	-	15	42.3	46.5	41.1
+River Homelink	480097	14	591	556	582	2	4	0	0	-	2	-	-	-	10	52.5	54.1	50.1
+River Ridge High School	480574	97	463	479	451	6	17	118	195	86	22	46.7	48.5	42.5	74	49.5	50.9	46.9
+River View High School	480530	27	406	445	371	1	2	8	11	3	75	37.2	41.8	34.2	23	42.3	47.1	38.3
+River's Edge High School	481004	3	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Riverside High School	480705	55	504	521	476	1	2	30	50	19	7	51.9	53.0	48.6	100	43.8	46.4	38.8
+Robert A. Long High School	480625	41	520	525	500	0	0	14	16	0	10	45.2	51.6	45.8	61	47.7	48.3	44.1
+Robinswood Middle High School	480074	2	-	-	-	0	0	0	0	-	1	-	-	-	25	37.6	37.9	34.4
+Rochester High School	481020	21	503	521	472	0	0	2	2	-	1	-	-	-	31	41.5	44.3	41.1
+Roosevelt High School	481140	245	568	585	563	79	182	549	820	535	360	49.8	51.7	47.5	344	52.1	53.9	49.8
+Rosalia High School	481030	11	528	539	512	0	0	0	0	-	0	-	-	-	10	50.6	52.6	41.2
+Royal High School	481033	32	474	478	467	1	3	31	35	8	0	-	-	-	35	45.9	48.9	43.3
+Saint John/Endicott High School	481035	14	492	510	464	0	0	10	10	2	8	47.1	52.3	43.4	7	44.4	50.3	45.4
+Sammamish High School	480072	157	556	566	542	39	99	479	1108	436	36	48.9	50.9	47.4	241	45.0	47.3	43.5
+Scriber Lake High School	480654	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Secondary Alternative School	480109	1	-	-	-	1	2	0	0	-	0	-	-	-	0	-	-	-
+Sedro Woolley High School	481175	76	498	524	476	7	18	77	107	62	70	47.0	48.4	42.8	35	47.7	50.3	44.2
+Sehome High School	480083	140	574	576	552	29	71	256	431	291	66	55.4	56.8	49.9	108	55.6	56.6	52.3
+Selah High School	481180	74	484	506	470	2	6	38	38	14	1	-	-	-	70	46.2	50.3	43.9
+Selkirk Junior-Senior High School	480495	7	454	481	457	0	0	5	5	2	28	36.7	42.1	35.3	17	44.8	48.6	43.8
+Sequim High School	481185	96	542	563	524	12	34	58	70	44	7	56.6	57.7	54.3	45	50.8	52.5	46.9
+Shadle Park High School	481282	116	521	543	509	2	6	138	246	145	2	-	-	-	229	45.1	48.4	42.0
+Shelton High School	481190	68	509	514	507	2	3	0	0	-	1	-	-	-	47	51.1	52.1	47.4
+Shorecrest High School	481163	194	542	542	525	27	61	285	434	327	13	49.7	49.2	47.2	163	51.6	52.3	48.9
+Shorewood High School	481166	240	546	560	524	43	100	248	482	321	42	53.7	54.2	49.3	211	51.8	52.2	49.2
+Sky Valley Educationa Center	480726	11	626	548	571	0	0	0	0	-	8	53.9	48.6	52.8	13	54.6	48.3	48.2
+Skykomish High School	481205	2	-	-	-	0	0	0	0	-	6	46.2	41.2	41.8	8	34.6	42.1	37.6
+Skyline High School	480501	337	576	589	558	80	198	21	28	15	39	54.8	60.2	52.7	221	55.1	57.7	52.0
+Skyview High School	481489	183	513	526	496	12	28	191	383	245	59	50.5	50.8	47.4	125	51.4	53.9	49.1
+Snohomish Senior High School	481210	241	536	541	518	17	41	83	138	101	19	51.8	52.1	47.4	106	52.3	51.3	47.9
+Soap Lake High School	481212	9	468	471	506	0	0	0	0	-	23	37.5	42.0	36.9	29	40.1	44.1	38.1
+South Bend High School	481220	14	501	527	514	0	0	4	4	-	18	43.6	47.0	42.2	22	47.1	48.8	43.7
+South Kitsap High School	480910	242	510	511	489	5	11	170	296	178	55	48.1	50.4	46.3	177	52.6	53.3	49.7
+South Lake High School	481134	0	-	-	-	0	0	0	0	-	12	26.8	27.8	28.4	6	35.0	37.8	30.7
+South Sound High School	480567	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+South Whidbey High School	480595	98	545	525	516	12	29	80	88	50	23	48.4	45.9	43.4	48	49.4	51.0	46.5
+Southridge High School	480531	101	490	515	460	2	5	108	162	62	41	50.2	53.3	48.5	84	50.3	53.8	47.3
+Spanaway Lake High School	481227	74	498	497	472	5	17	194	255	63	106	44.5	45.7	42.8	90	46.0	46.5	43.6
+Spokane Valley High School	481296	11	465	475	450	0	0	0	0	-	1	-	-	-	19	42.1	41.8	39.5
+Sprague High School	481307	6	527	512	443	0	0	0	0	-	0	-	-	-	0	-	-	-
+Squalicum High School	480091	132	528	547	513	13	31	157	277	205	41	41.0	44.2	38.8	270	45.8	48.2	43.4
+Stadium High School	481395	234	523	510	502	17	43	102	158	104	66	52.6	52.7	49.9	116	53.6	53.1	51.7
+Stanton Academy	481623	1	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Stanwood High School	481315	184	530	527	500	10	25	162	263	168	14	53.3	53.1	49.1	76	54.2	56.4	50.4
+Steilacoom Senior High School	481325	68	498	509	493	3	7	50	99	43	33	49.0	48.8	44.1	45	47.9	49.0	45.6
+Stevenson High School	481330	30	487	513	475	2	6	9	9	7	2	-	-	-	14	45.5	50.5	46.3
+Sultan Senior High School	481335	45	513	540	483	0	0	11	11	1	8	42.3	48.5	41.8	38	49.7	51.1	45.2
+Summit K-12 School	481168	8	508	449	471	1	3	1	1	-	32	37.1	37.5	36.3	30	45.6	41.3	42.9
+Summit View High School	480059	3	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Sumner High School	481345	128	510	511	492	2	6	0	0	-	27	51.1	53.5	49.7	263	45.9	46.9	43.3
+Sunnyside Senior High School	481350	102	410	413	402	5	13	135	200	28	3	-	-	-	28	44.4	47.7	43.7
+Tacoma School of The Arts	481399	71	569	500	532	11	25	0	0	-	39	52.1	48.9	48.0	89	51.1	46.9	48.4
+Tahoma Senior High School	480665	218	548	556	525	7	14	375	624	432	89	49.7	54.0	48.6	149	50.8	53.8	47.4
+Technology Engineering and Communications School	481141	4	-	-	-	0	0	20	32	5	2	-	-	-	46	37.3	39.1	35.8
+Tekoa High School	481405	8	510	530	480	0	0	6	6	1	1	-	-	-	6	47.8	51.8	43.3
+Tenino High School	481410	16	509	528	465	0	0	3	6	-	8	51.4	51.3	49.6	37	46.9	47.3	41.3
+Thomas Jefferson High School	480058	215	521	548	505	31	74	131	136	77	333	41.2	46.5	39.9	198	51.4	55.3	49.7
+Tiger Mountain Community High School	480503	1	-	-	-	1	2	0	0	-	0	-	-	-	5	40.8	38.0	37.4
+Timberline High School	480572	113	503	503	495	6	17	250	381	184	76	48.0	47.6	45.1	105	50.3	50.6	47.4
+Todd Beamer High School	480401	162	495	512	492	22	56	274	507	95	342	39.6	43.5	38.2	84	47.8	48.7	43.7
+Toledo High School	481420	22	499	507	459	0	0	6	6	0	9	47.3	51.1	43.0	15	49.7	48.7	42.9
+Tonasket High School	481425	52	433	446	421	1	3	26	45	10	21	45.5	47.8	43.4	22	44.9	48.4	42.0
+Toppenish High School	481430	60	423	448	408	0	0	30	34	2	159	33.3	35.7	32.6	66	39.4	41.3	37.2
+Touchet High School	481435	19	405	428	412	0	0	14	14	3	0	-	-	-	18	38.8	43.9	37.5
+Toutle Lake High School	481438	9	572	542	523	0	0	0	0	-	2	-	-	-	12	53.3	54.2	50.9
+Transition School Early Entrance	481174	1	-	-	-	0	0	0	0	-	1	-	-	-	0	-	-	-
+Trout Lake High School	481440	7	620	607	556	0	0	8	9	6	7	48.6	49.4	44.7	10	49.5	52.7	45.1
+Tulalip Heritage School	481441	0	-	-	-	0	0	0	0	-	6	31.5	37.7	35.0	1	-	-	-
+Tumwater High School	481443	98	532	541	516	6	17	134	189	106	4	-	-	-	37	53.0	52.6	50.4
+Union High School	480139	120	519	538	499	8	21	365	640	432	28	52.2	56.3	47.8	34	52.4	55.7	48.5
+University High School	481297	135	538	543	510	10	29	164	268	168	379	40.9	43.6	38.1	67	49.5	55.1	46.3
+Vancouver School for Arts and Academics	481480	43	598	561	567	4	10	44	75	54	17	55.6	52.6	52.5	31	55.6	52.8	53.6
+Vashon Island High School	480135	99	567	557	550	21	47	13	20	14	32	52.7	54.2	49.8	88	54.3	56.0	52.0
+W. F. West High School	480175	75	506	527	481	6	15	20	28	14	7	52.3	55.6	47.9	69	47.3	52.7	47.2
+Wahkiakum High School	480165	17	481	480	481	0	0	8	8	5	32	40.1	42.1	39.2	12	42.7	43.1	39.2
+Wahluke High School	480783	17	429	439	430	2	6	46	54	6	0	-	-	-	38	36.7	41.3	35.7
+Waitsburg High School	481485	14	489	488	462	0	0	15	25	10	0	-	-	-	32	44.1	47.9	40.0
+Walla Walla High School	481503	145	526	534	504	10	28	177	306	176	30	49.9	53.2	46.5	141	48.1	49.2	45.4
+Wapato Senior High School	481505	39	400	430	392	0	0	30	38	21	30	42.7	46.3	40.9	43	39.6	45.1	39.2
+Warden High School	481510	29	395	426	390	1	2	0	0	-	10	40.4	46.0	40.8	29	37.9	43.3	38.4
+Washington High School	481402	66	488	482	453	5	15	93	174	57	44	40.7	41.8	39.3	47	45.7	47.7	42.3
+Washington State School for the Blind	481482	0	-	-	-	0	0	3	5	-	0	-	-	-	2	-	-	-
+Washington Virtual Academy	480311	0	-	-	-	0	0	0	0	-	1	-	-	-	2	-	-	-
+Washougal High School	481515	65	519	512	498	3	6	78	110	41	190	41.2	43.5	39.4	29	48.1	50.8	46.0
+Washtucna High School	481520	0	-	-	-	0	0	4	4	-	5	45.2	51.4	48.2	1	-	-	-
+Waterville Junior-Senior High School	481525	10	526	503	498	1	3	2	2	-	16	41.4	41.6	37.8	23	42.9	43.0	38.9
+Weatherwax (Aberdeen) High School	480000	57	488	502	469	2	6	13	13	3	0	-	-	-	43	48.5	51.1	46.9
+Wellpinit High School	481530	1	-	-	-	0	0	6	8	0	9	39.0	42.0	33.0	10	33.9	44.0	32.8
+Wenatchee High School	481535	205	529	529	504	19	52	177	268	167	16	49.1	51.6	46.2	103	52.4	55.2	49.5
+West Seattle High School	481165	144	484	480	473	8	18	146	274	72	232	39.3	42.1	37.5	250	41.7	43.9	39.3
+West Valley High School	480710	72	488	520	466	2	5	127	135	43	8	46.6	44.9	42.8	179	43.2	48.1	40.8
+West Valley High School	481625	142	520	518	504	5	13	40	47	32	3	-	-	-	92	49.6	50.7	48.1
+Whidbey Island Academy Shared School	480596	3	-	-	-	0	0	0	0	-	0	-	-	-	1	-	-	-
+White Pass High School	480965	9	513	531	478	0	0	19	24	11	36	42.5	43.1	37.5	9	47.3	53.6	46.4
+White River High School	480125	89	523	526	495	4	12	175	235	109	6	50.2	44.8	46.3	89	48.7	50.7	44.9
+White Swan High School	481550	6	492	502	477	1	2	0	0	-	3	-	-	-	19	32.0	38.6	34.4
+Wilbur High School	481555	7	477	460	439	1	3	0	0	-	9	41.6	46.6	40.6	0	-	-	-
+Willapa Valley High School	480695	13	431	410	438	0	0	0	0	-	15	41.2	45.5	37.3	14	42.8	48.4	44.8
+Wilson Creek High School	481560	1	-	-	-	0	0	0	0	-	11	46.1	49.6	44.2	10	40.9	50.8	40.9
+Winlock High School	481575	19	485	487	457	0	0	0	0	-	2	-	-	-	11	44.6	47.8	43.5
+Wishkah Valley High School	480010	5	490	492	518	0	0	1	1	-	3	-	-	-	3	-	-	-
+Wishram High School	481590	0	-	-	-	0	0	0	0	-	3	-	-	-	4	-	-	-
+Woodinville High School	481598	251	559	574	537	34	85	276	429	330	46	53.0	53.6	48.7	210	54.1	56.6	51.3
+Woodland High School	481600	50	496	499	470	0	0	36	52	20	24	45.4	49.3	42.8	45	47.4	49.2	44.0
+Woodrow Wilson High School	481403	67	478	493	480	4	11	47	63	28	22	45.8	44.7	42.5	28	47.8	48.2	45.9
+Yakima Online	481618	4	-	-	-	0	0	0	0	-	0	-	-	-	0	-	-	-
+Yelm High School	481630	127	501	500	475	3	9	86	114	62	20	43.5	47.0	41.3	105	46.3	49.0	43.1
+Zillah High School	481635	11	522	547	494	1	3	0	0	-	0	-	-	-	13	52.9	54.0	51.8 
