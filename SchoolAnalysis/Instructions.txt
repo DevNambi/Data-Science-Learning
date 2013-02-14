@@ -2,9 +2,16 @@ Raw and/or not cleaned up data
 \RawData - contains most of the raw data for this analysis. This is not-cleaned, not-merged data, and has some data errors.
 \FirstPass - a lot of the information from \RawData, as well as the results of a lot of HTML parsing. 
 
-There was a lot of data claeansing done in SQL. That data is here, in the SchoolAnalysis.bak file, which is a SQL Server 2012 backup file.
+There was a lot of data cleaning done in SQL. That data is here, in the SchoolAnalysis.bak file, which is a SQL Server 2012 backup file.
 
 Cleaned Up Data:
-FileForR.csv - the resulting file that is being used for analysis in R.
+SchoolDataForR-2013-01-11.csv - the resulting file that is being used for analysis in R.
 TableauSchoolData-Agg.xlsx - an Excel file with the data being used for Tableau graphing.
 TableauSchoolData-PerYear.xlsx - an Excel file with the final data being used for year-over-year analysis in Tableau.
+
+
+Scripts Used For Analysis, in R.
+Analysis-DataViz.R - the first script run. It helps to visualize everything before doing analysis.
+Analysis-ClassicalStats.R - the second script run
+Analysis-Prediction.R - the third script run
+Analysis-Clustering.R - the fourth script run.
