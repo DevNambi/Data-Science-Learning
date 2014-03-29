@@ -1,0 +1,52 @@
+SaleAmount
+SaleAmountLog
+
+PopularityLog + FrequencyLog + HardConsonantCount + VowelCount + VowelRatio + HardConsonantRatio + SoftConsonantRatio + NonVowelRatio + PrefixFrequencyLog + PrefixCountLog + AvgPrefixFrequencyLog + EightyPrefixFrequencyLog + SuffixFrequencyLog + SuffixCountLog + AvgSuffixFrequencyLog + EightySuffixFrequencyLog
+
+* Popularity
+	* PopularityLog
+* Frequency
+	* FrequencyLog
+
+WordLength
+* HardConsonantCount
+NumberCount
+PunctuationCount
+SoftConsonantCount
+* VowelCount
+DistinctLetterCount
+DistinctRatio 
+NonVowelCount 
+* VowelRatio
+* HardConsonantRatio
+* SoftConsonantRatio 
+* NonVowelRatio 
+SoftAndVowelCount
+
+
+* PrefixFrequency
+	* PrefixFrequencyLog 
+* PrefixCount
+	* PrefixCountLog
+* AvgPrefixFrequency
+	* AvgPrefixFrequencyLog
+MedianPrefixFrequency
+* EightyPrefixFrequency
+	* EightyPrefixFrequencyLog
+NinetyPrefixFrequency 
+NinetyNinePrefixFrequency 
+
+
+* SuffixFrequency
+	* SuffixFrequencyLog 
+* SuffixCount
+	* SuffixCountLog
+* AvgSuffixFrequency
+	* AvgSuffixFrequencyLog
+* MedianSuffixFrequency 
+* EightySuffixFrequency 
+	* EightySuffixFrequencyLog 
+* NinetySuffixFrequency 
+* NinetyNineSuffixFrequency
+
+
