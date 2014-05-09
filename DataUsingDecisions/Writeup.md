@@ -92,6 +92,8 @@ Let's quantify that, using data.
 
 (DEMO, SWITCH TO TABLEAU, AGE-VS-PRICE, DEPRECIATION MAKE)
 
+[http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no](http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no)
+
 * Cars: the price of a car drops by 15-25% each year for the first 5 years. 
 * People normally drive around 12K miles a year. 200K mile car that's driven 12K miles a year will last around 16.6%. 5.9% a year.
 
@@ -178,6 +180,8 @@ I did this for small cars & sedans last year.
 #### Round 2: Age
 
 (SWITCH TO TABLEAU, COST PER MILE, TCO PER MILE)
+
+[http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no](http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no)
 
 * Eliminating bad options vs. picking good ones
 * Diminishing returns
@@ -317,6 +321,8 @@ Time.
 
 (SWITCH TO TABLEAU)
 
+[http://public.tableausoftware.com/views/BayAreaHousing/RentDash?amp;:embed=y&:display_count=no](http://public.tableausoftware.com/views/BayAreaHousing/RentDash?amp;:embed=y&:display_count=no)
+
 * Time value of each place
 * Tableau presentation
 
@@ -406,10 +412,15 @@ Value: time spent exercising X how much you enjoy it.
 
 **Iteration 1**: list of sports and prices
 
+[http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no](http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no)
+
 * Sports Dash
 * Price Dash
 
 **Iteration 2**: prep time and ROI
+
+[http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no](http://public.tableausoftware.com/views/ExerciseData/SportsDash?amp;:embed=y&:display_count=no)
+
 
 * Time Dash
 * Time v Price Dash
