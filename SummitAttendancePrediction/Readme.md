@@ -1,0 +1,1 @@
+This has been moved to the [pass-summit](https://github.com/DevNambi/pass-summit) repository.
